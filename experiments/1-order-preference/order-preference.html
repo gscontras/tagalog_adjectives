@@ -52,19 +52,21 @@
   <noscript>This task requires JavaScript.</noscript>
 
   <div class="slide" id="i0" >
-    <img src="../_shared/images/cocologo.png" alt="Stanford CoCoLab" id="cocologo"></img>
-    <p id="cocolab">Stanford CoCoLab</p>
+    <p id="cocolab">UC Irvine Linguistics</p>
     <p id="instruct-text">This HIT involves interpreting sentences of English. The task should take about six minutes. Please pay attention. Thanks!</p>
     <button id="start_button" type="button">Start Experiment</button>
     <p id="legal">Legal information: By answering the following questions, you are participating in a study being performed by cognitive scientists in the Stanford Department of Psychology. If you have questions about this research, please contact Greg Scontras at <a href="mailto://scontras@stanford.edu">scontras@stanford.edu</a> or Noah Goodman, at ngoodman@stanford.edu. You must be  at least 18 years old to participate. Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.</p>
   </div>
 
   <div class="slide" id="instructions1">
+    <h3>Pag tuturo</h3>
+    <p> Makakakita ka nang 26 pares ng maikling na bagay na naglalarawan.<br>
+    Ang iyong gagawin ang magpasiya kung anong tunog nagalalarawan na mas mainam.</p>
     <h3>Instructions</h3>
-    <p> You will see 26 pairs of short object descriptions.<br>
-    Your task is to decide which description sounds better.</p>
+    <p><font color = "blue"><em>You will see 26 pairs of short object descriptions.</em></font><br>
+    <font color = "blue"><em>Your task is to decide which description sounds better.</em></font></p>
     <!-- <p class="instruction_condition">{{}}</p> -->
-    <button onclick="_s.button()">Continue</button>
+    <button onclick="_s.button()">Pa tuloy / Continue</button>
   </div>
 
   <div class="slide" id="multi_slider">
@@ -89,7 +91,9 @@
  -->
     <br>
 
-    <p>Which description of the <span class="noun">{{}}</span> sounds more natural?</p>
+    <p><font color = "blue"><em>Which description of the <span class="noun">{{}}</span> sounds more natural?</font></em></p>
+
+    <p>Anong tunog ng <span class="noun">{{}}</span> na naglalarawan na may natural na himig?</p>
 
     <table id="multi_slider_table" class="slider_table">
 <!--      <tr><td class="left">No, somebody must be wrong.</td><td class="right">Yes, it's a matter of opinion.</td></tr> -->
@@ -98,10 +102,16 @@
       </td><td><span class="high">{{}}</span></td></tr>
     </table>
 
-    <p>Adjust the slider to indicate your preference.</p><br>
+    <p>Iurong ang nararapat na panukala para alamin ang sinasabing pahayag.</p>
+
+    <p><font color = "blue"><em>Adjust the slider to indicate your preference.</em></font></p><br>
 
     <button onclick="_s.button()">Continue</button>
-    <div class="err">Please adjust the slider before continuing.</div>
+    <div class="err">Bago mag-patuloy alamin ang panukala na dapat baguhin.
+</div>
+    <div class="err"><font color = "blue"><em>Please adjust the slider before continuing.</em></font></div>
+
+
   </div>
 
   <div class="slide"  id="subj_info">
@@ -158,7 +168,7 @@
   </div>
 
   <div class="progress">
-    <span>Progress:</span>
+    <span>Progreso/Progress:</span>
     <div class="bar-wrapper">
       <div class="bar" width="0%">
       </div>

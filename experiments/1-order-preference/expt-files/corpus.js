@@ -6,45 +6,45 @@
 //		]
 
 var adjectives = _.shuffle([
-		{"Predicate":"red", "Class":"color"},
-		{"Predicate":"yellow", "Class":"color"},
-		{"Predicate":"green", "Class":"color"},
-		{"Predicate":"blue", "Class":"color"},
-		{"Predicate":"purple", "Class":"color"},
-		{"Predicate":"brown", "Class":"color"},											
-		{"Predicate":"big", "Class":"size"},
-		{"Predicate":"small", "Class":"size"},					
-		{"Predicate":"huge", "Class":"size"},					
-		{"Predicate":"tiny", "Class":"size"},					
-		{"Predicate":"short", "Class":"size"},					
-		{"Predicate":"long", "Class":"size"},							
-		{"Predicate":"wooden", "Class":"material"},
-		{"Predicate":"plastic", "Class":"material"},
-		{"Predicate":"metal", "Class":"material"},
-		{"Predicate":"smooth", "Class":"texture"},
-		{"Predicate":"hard", "Class":"texture"},
-		{"Predicate":"soft", "Class":"texture"},
-		{"Predicate":"old", "Class":"age"},
-		{"Predicate":"new", "Class":"age"},
-		{"Predicate":"rotten", "Class":"age"},
-		{"Predicate":"fresh", "Class":"age"},
-		{"Predicate":"good", "Class":"quality"},
-		{"Predicate":"bad", "Class":"quality"},
-		{"Predicate":"round", "Class":"shape"},						
-		{"Predicate":"square", "Class":"shape"}
+		{"Predicate":	"luma"	, "Class":	"age"	, "Linker":	"ng"	},
+{"Predicate":	"bago"	, "Class":	"age"	, "Linker":	"ng"	},
+{"Predicate":	"bulok"	, "Class":	"age"	, "Linker":	" na"	},
+{"Predicate":	"sariwa"	, "Class":	"age"	, "Linker":	"ng"	},
+{"Predicate":	"pula"	, "Class":	"color"	, "Linker":	"ng"	},
+{"Predicate":	"dilaw"	, "Class":	"color"	, "Linker":	" na"	},
+{"Predicate":	"berde"	, "Class":	"color"	, "Linker":	"ng"	},
+{"Predicate":	"asul"	, "Class":	"color"	, "Linker":	" na"	},
+{"Predicate":	"itim"	, "Class":	"color"	, "Linker":	" na"	},
+{"Predicate":	"puti"	, "Class":	"color"	, "Linker":	"ng"	},
+{"Predicate":	"kahoy"	, "Class":	"material"	, "Linker":	" na"	},
+{"Predicate":	"aluminyo"	, "Class":	"material"	, "Linker":	"ng"	},
+{"Predicate":	"bakal"	, "Class":	"material"	, "Linker":	" na"	},
+{"Predicate":	"maganda"	, "Class":	"quality"	, "Linker":	"ng"	},
+{"Predicate":	"sira"	, "Class":	"quality"	, "Linker":	"ng"	},
+{"Predicate":	"bilog"	, "Class":	"shape"	, "Linker":	" na"	},
+{"Predicate":	"cuadrado"	, "Class":	"shape"	, "Linker":	"ng"	},
+{"Predicate":	"malaki"	, "Class":	"size"	, "Linker":	"ng"	},
+{"Predicate":	"maliit"	, "Class":	"size"	, "Linker":	" na"	},
+{"Predicate":	"tatsulok"	, "Class":	"shape"	, "Linker":	" na"	},
+{"Predicate":	"parihaba"	, "Class":	"shape"	, "Linker":	"ng"	},
+{"Predicate":	"maikli"	, "Class":	"size"	, "Linker":	"ng"	},
+{"Predicate":	"mahaba"	, "Class":	"size"	, "Linker":	"ng"	},
+{"Predicate":	"makinis"	, "Class":	"texture"	, "Linker":	" na"	},
+{"Predicate":	"matigas"	, "Class":	"texture"	, "Linker":	" na"	},
+{"Predicate":	"malambot"	, "Class":	"texture"	, "Linker":	" na"	}
 ]);
 
 var nouns = [
-		{"Noun":"apple", "NounClass":"food"},
-		{"Noun":"banana", "NounClass":"food"},
-		{"Noun":"carrot", "NounClass":"food"},
-		{"Noun":"cheese", "NounClass":"food"},
-		{"Noun":"tomato", "NounClass":"food"},								
-		{"Noun":"chair", "NounClass":"furniture"},								
-		{"Noun":"couch", "NounClass":"furniture"},								
-		{"Noun":"fan", "NounClass":"furniture"},								
-		{"Noun":"TV", "NounClass":"furniture"},								
-		{"Noun":"desk", "NounClass":"furniture"}								
+		{"Noun":	"mansanas"	, "NounClass":	"food"	},
+{"Noun":	"saging"	, "NounClass":	"food"	},
+{"Noun":	"karot"	, "NounClass":	"food"	},
+{"Noun":	"keso"	, "NounClass":	"food"	},
+{"Noun":	"kamatis"	, "NounClass":	"food"	},
+{"Noun":	"silya"	, "NounClass":	"furniture"	},
+{"Noun":	"sopa"	, "NounClass":	"furniture"	},
+{"Noun":	"lampara"	, "NounClass":	"furniture"	},
+{"Noun":	"television"	, "NounClass":	"furniture"	},
+{"Noun":	"mesa"	, "NounClass":	"furniture"	}							
 ];
 
 var stimuli =  makeStims();
@@ -61,8 +61,10 @@ function makeStims() {
 				{
 					"Predicate1":pred1.Predicate,
 					"Class1":pred1.Class,	
+					"Linker1": pred1.Linker,
 					"Predicate2":pred2.Predicate,
 					"Class2":pred2.Class,			
+					"Linker2": pred2.Linker,
 					"Noun":noun.Noun,
 					"NounClass":noun.NounClass
 				}			

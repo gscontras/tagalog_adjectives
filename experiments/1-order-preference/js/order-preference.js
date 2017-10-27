@@ -47,15 +47,15 @@ function make_slides(f) {
 
       $(".man2").html(man2);
 
-      $(".noun").html(stim.Noun);
+      $(".noun").html("\"" + stim.Noun + "\"");
 
       //$(".woman1").html(woman1);
 
       //$(".woman2").html(man2);
 
-      $(".low").html("\"the "+ stim.Predicate2 + " " + stim.Predicate1 + " " + stim.Noun + "\"");
+      $(".low").html("\"ang "+ stim.Predicate2 + stim.Linker2 + " " + stim.Predicate1 + stim.Linker1 + " "  + stim.Noun + "\"");
 
-      $(".high").html("\"the "+ stim.Predicate1 + " " + stim.Predicate2 + " " + stim.Noun + "\"");
+      $(".high").html("\"ang "+ stim.Predicate1 + stim.Linker1 + " " + stim.Predicate2 + stim.Linker2 + " " + stim.Noun + "\"");
 
       // $(".utterance1").html("\"That "+ stim.Noun + " " + this.verbs[0] + " " + stim.Predicate + ".\"");
 
