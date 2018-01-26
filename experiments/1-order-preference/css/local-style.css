@@ -21,3 +21,11 @@
 .long_form {
     padding-top: 20px;
 }
+
+.scrollbox {
+    width: 800px;
+    height: 245px;
+    overflow: scroll;
+    align: center;
+    border: 1px solid black;
+}

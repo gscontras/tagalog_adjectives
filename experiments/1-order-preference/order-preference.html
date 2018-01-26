@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Corpus-based faultless disagreement</title>
+    <title>Interpreting phrases of Tagalog</title>
 
     <!--JS-->
 
@@ -54,8 +54,11 @@
   <div class="slide" id="i0" >
     <p id="cocolab">UC Irvine Linguistics</p>
     <p id="instruct-text">Ang mga survey na ito ay nilalaman ng mga pariralang Tagalog. Ang mga gawain na ito ay aabutin ng mahigit kumulang na anim na minuto. Kung pwede lang ay bigyan ng kaukulang pansin. Maraming salamat! <br><br><font color = "blue"><em> This survey involves interpreting phrases of Tagalog. The task should take about six minutes. Please pay attention. Thanks!</em></font></p>
-    <button id="start_button" type="button">Simulan Eksperimento / Start Experiment</button>
-    <p id="legal"> Ligal na kaalaman: Kami ay humihingi sa inyo para kayo ay makibahagi sa isinapagawang pagsisiyasat sa Universidad ng California sa Irvine. 
+    <button id="start_button" type="button">Simulan Eksperimento / Start Experiment</button><br><br>
+    
+    <div class = "scrollbox">
+   	<p><b>Ligal na kaalaman: / <font color = "blue"><em>Legal information:</em></font></b></p>
+    <p id="legal" align="left">Kami ay humihingi sa inyo para kayo ay makibahagi sa isinapagawang pagsisiyasat sa Universidad ng California sa Irvine. 
     Ikaw ay marapat sa kababababaan 18 taon na sumali.
     Kung may tanong ka o malasakit tungkol sa iyong mga karapatan bilang kalahok sa pananaliksik makipag ugnayan sa institutional review board sa pamamagitan ng (949) 824-6662 e-mail sa mailto:IRB@research.uci.edu or sa 141 Innovation , suite 250, Irvine ca 92697.
     Ano ang isang irb? Ang isang institusyon ng pagsusuri ng komitena binubuo ng siyentipiko at hindi siyentipiko. Ang ginagampanan ay para protektahan ang mga karapatan at karapatan ng mga tao sa panaliksik. Tinitiyak din ng irb na pananaliksik ay sumusunod sa batas and reguridad at patakaran sa institutional.
@@ -64,27 +67,17 @@
     Makisali sa araling ito ay hindi sapilitang. 
     Kung mayroon kayong mga katanungan makipagalaman kay Suttera Samonte dito sa <a href="mailto://ssamonte@uci.edu">ssamonte@uci.edu</a> o Greg Scontras, sa gscontra@uci.edu 
     Pag hihingi ng kurokuro. Na walang dapat ikabahala at magsisibing uhim. 
-    Kung maari hindi kailangan ilagay ang pankalan. O ibang kaalaman na pwudeng gamitin para matukoy ang naturang tao sa survey na ito. 
-    Kung gusto mong maki-bahagi sa pagaaral na ito pisilin ang Simulan Experimento buton para umpisahan ang pag sisiyasat.
-        <br><br><font color = "blue"><em>Legal information: We are asking you to take part in a study conducted by researchers at the University of California,
-Irvine. Participating in this study is optional. 
-If you choose to be in the study, you will complete a survey on intuitions about adjectives. This
-	survey will help us learn more about language in general. The survey will take about 6 minutes to
-	complete.
-If you have questions about this research, please contact Suttera Samonte at <a href="mailto://ssamonte@uci.edu">ssamonte@uci.edu</a> or Greg Scontras, at gscontra@uci.edu. 
-You must be  at least 18 years old to participate. 
-If you have questions or concerns about your rights as a research participant, you can contact the
-	UCI Institutional Review Board by phone, (949) 824-6662, by e-mail at IRB@research.uci.edu or at
-	141 Innovation, Suite 250, Irvine, CA 92697.
-What is an IRB?  An Institutional Review Board (IRB) is a committee made up of scientists and
-	non-scientists.  The IRB’s role is to protect the rights and welfare of human subjects involved in
-	research.  The IRB also assures that the research complies with applicable regulations, laws, and
+    Kung maari hindi kailangan ilagay ang pankalan. O ibang kaalaman na pwudeng gamitin para matukoy ang naturang tao sa survey na ito. Kung gusto mong maki-bahagi sa pagaaral na ito pisilin ang Simulan Experimento buton para umpisahan ang pag sisiyasat.
+    <br><br><font color = "blue"><em>We are asking you to take part in a study conducted by researchers at the University of California, Irvine. Participating in this study is optional. If you choose to be in the study, you will complete a survey on intuitions about adjectives. This survey will help us learn more about language in general. The survey will take about 6 minutes to complete. If you have questions about this research, please contact Suttera Samonte at <a href="mailto://ssamonte@uci.edu">ssamonte@uci.edu</a> or Greg Scontras, at gscontra@uci.edu. You must be  at least 18 years old to participate. If you have questions or concerns about your rights as a research participant, you can contact the UCI Institutional Review Board by phone, (949) 824-6662, by e-mail at IRB@research.uci.edu or at 141 Innovation, Suite 250, Irvine, CA 92697. What is an IRB? An Institutional Review Board (IRB) is a committee made up of scientists and
+	non-scientists. The IRB's role is to protect the rights and welfare of human subjects involved in
+	research. The IRB also assures that the research complies with applicable regulations, laws, and
 	institutional policies.
 You can skip questions that you do not want to answer or stop the survey at any time. 
 The survey is anonymous, and no one will be able to link your answers back to you. Please do not include your
 name or other information that could be used to identify you in the survey responses.
 If you want to participate in this study, click the Start Experiment button to start the survey.
 </em></font></p>
+</div><br>
   </div>
 
   <div class="slide" id="instructions1">
@@ -177,8 +170,30 @@ If you want to participate in this study, click the Start Experiment button to s
         </select>
       </p>
 
+      <p>Saan ka pinanganak? / <em>Where were you born?</em>:
+        <select id="born">
+          <label><option value=""/></label>
+          <label><option value="Philippines"/>Philippines</label>
+          <label><option value="USA"/>USA</label>
+          <label><option value="Other"/>Iba / Other</label>
+        </select>
+      </p>
+
+	  <p>Saan ka nakatira na?  / <em>Where do you live now?</em>:
+        <select id="live">
+          <label><option value=""/></label>
+          <label><option value="Philippines"/>Philippines</label>
+          <label><option value="USA"/>USA</label>
+          <label><option value="Other"/>Iba / Other</label>
+        </select>
+      </p>     
+
+       <p>Ilang toon ka na noong ikaw ay lumipat galing sa Pilipinas at lumipat sa ibang lugar? / <em>If you moved from the Philippines to another place, how old were you when you moved?</em>: <input type="text" id="agemove"/></p>
+
       <p>Katutubong Uika / <em>Native Language</em>: <input type="text" id="language"/></p>
       <label>(binibigkas ng linguahe sa bahay) / <em>(the language(s) spoken at home when you were a child)</em></label>
+
+      <p>Kung ikaw ay nakakapagsalita nang ibang wika, ano ba ang ibang wika ang pwede mong isalita? / <em>If you speak other dialects, what other dialects do you speak?</em>: <input type="text" id="dialects"/></p>
 
       <p>Nagustuhan mo ba ang survey? / <em>Did you enjoy the survey?</em></p>
       <select id="enjoyment">
