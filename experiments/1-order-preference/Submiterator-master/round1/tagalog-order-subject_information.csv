@@ -1,0 +1,9 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,English,USA,2,Male,44,Thanks,NA,,USA,none,2
+1,,USA,1,Female,25,,No,,USA,,1
+2,english/tagalog,USA,1,Female,23,thank you,Yes,,USA,can understand cebuano,3
+3,English,USA,1,Female,43,,Confused,,USA,,2
+4,English,USA,2,Male,21,,Yes,na,USA,na,3
+5,English,USA,2,Female,37,,Yes,N/A,USA,N/A,2
+6,Tagalog,Philippines,2,Male,23,"Medyo hindi maganda ang ibang pagsasalin. Kung kailan ninyo ng magsasalin, narito ako.",Yes,14,USA,N/A,3
+7,English,USA,2,Male,25,,Yes,,USA,,1

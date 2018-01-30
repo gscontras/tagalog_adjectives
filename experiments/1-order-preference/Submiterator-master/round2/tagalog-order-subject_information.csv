@@ -1,0 +1,7 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,English,USA,2,Male,25,,Yes,N/A,USA,N/A,2
+1,English,USA,-1,Female,36,,Yes,,USA,,3
+2,"Tagalog, English",Philippines,1,Male,27,None,Yes,6,USA,Ilocano,3
+3,english,USA,1,Female,28,,Yes,,USA,,2
+4,Tagalog/English,USA,1,Male,46,,Yes,n/a,USA,n/a,3
+5,Tagalog,Other,2,Male,35,,Yes,NA,Philippines,Bisaya,4
