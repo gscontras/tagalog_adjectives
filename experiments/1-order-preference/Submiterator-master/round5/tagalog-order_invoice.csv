@@ -7,6 +7,7 @@ Mon Jan 29 15:34:51 PST 2018,A8TIL9U6YHG5,0.5
 Mon Jan 29 15:48:40 PST 2018,A37CO0N1KC1CDW,0.5
 Mon Jan 29 16:03:04 PST 2018,A1QXW6HGZCSSNV,0.5
 Mon Jan 29 16:05:56 PST 2018,A1UHNDB2EQ8TK0,0.5
-,total paid to workers:,=SUM(c2:c9)
-,40% paid to Amazon:,=.4*c10
-,total:,=SUM(c10:c11
+Mon Jan 29 16:15:36 PST 2018,A1C5THJX1VVGO4,0.5
+,total paid to workers:,=SUM(c2:c10)
+,40% paid to Amazon:,=.4*c11
+,total:,=SUM(c11:c12

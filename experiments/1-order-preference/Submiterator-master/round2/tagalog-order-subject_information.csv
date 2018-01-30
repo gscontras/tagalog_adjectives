@@ -5,3 +5,6 @@ workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialect
 3,english,USA,1,Female,28,,Yes,,USA,,2
 4,Tagalog/English,USA,1,Male,46,,Yes,n/a,USA,n/a,3
 5,Tagalog,Other,2,Male,35,,Yes,NA,Philippines,Bisaya,4
+6,english,USA,2,Female,45,,NA,,USA,,3
+7,English,Other,0,Male,30,,Confused,,USA,,4
+8,English,USA,1,Female,32,,Yes,,USA,,3

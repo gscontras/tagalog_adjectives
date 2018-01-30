@@ -17,7 +17,7 @@ d = subset(df, select=c("workerid","noun","nounclass","slide_number", "predicate
 # re-factorize
 d[] <- lapply( d, factor) 
 
-t = d[d$language!=""&d$language!="English"&d$language!="english"&d$language!="ENGLISH",]
+t = d[d$language!=""&d$language!="HINDI"&d$language!="English"&d$language!="english"&d$language!="ENGLISH",]
 
 t$response = as.numeric(as.character(t$response))
 
@@ -53,45 +53,19 @@ nrow(agr) #XXX
 adj_agr = aggregate(correctresponse~predicate*correctclass,FUN=mean,data=agr)
 adj_agr
 
-ggplot(data=all_agg_s,aes(x=reorder(class1,-adj_preferred_10,mean),y=adj_preferred_10))+
+class_agr = aggregate(correctresponse~correctclass,FUN=mean,data=agr)
+
+ggplot(data=class_agr,aes(x=reorder(correctclass,-correctresponse,mean),y=correctresponse))+
   geom_bar(stat="identity")+
-  geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(class1,-adj_preferred_10,mean), width=0.1),alpha=0.5)+
+  #geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(class1,-correctresponse,mean), width=0.1),alpha=0.5)+
   xlab("\nadjective class")+
   ylab("distance from noun\n")+
   ylim(0,1)+
   #labs("order\npreference")+
   theme_bw()#+
   #theme(axis.text.x=element_text(angle=90,vjust=0.35,hjust=1))
-#ggsave("../results/class_distance_by_adj.pdf",height=3)
+#ggsave("../results/class_distance.pdf",height=3)
 
-
-ggplot(data=all_agg[all_agg$Preferred=="preferred",],aes(x=reorder(configuration,-Ratio,mean),y=Ratio))+
-  geom_bar(stat="identity")+
-  xlab("\nadjective class configuration")+
-  ylab("acceptability ratio\n")+
-  #labs("order\npreference")+
-  theme_bw()+
-  theme(axis.text.x=element_text(angle=90,vjust=0.35,hjust=1))
-#ggsave("../results/order_ratio.pdf",height=4)
-
-## average distance from noun
-
-dist = read.csv("../results/distance.csv",header=T)
-dist$distance = (dist$first / 6)+1
-head(dist)
-
-ggplot(data=dist,aes(x=reorder(class,-distance,mean),y=distance))+
-  geom_bar(stat="identity")+
-  xlab("\nadjective class")+
-  ylab("distance from noun\n")+
-  #labs("order\npreference")+
-  theme_bw()
-#ggsave("../results/class_distance.pdf",height=4)
-
-
-ggplot(data=all_agg,aes(x=reorder(configuration,-response,mean),y=response,fill=Preferred))+
-  geom_bar(stat="identity")+
-  theme(axis.text.x=element_text(angle=45,vjust=1,hjust=1))
 
 
 
