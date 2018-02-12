@@ -1,0 +1,10 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,,USA,1,Female,32,,Yes,0,USA,Spanish,1
+1,English,Philippines,2,Male,33,,Yes,22,USA,English,3
+2,ENGLISH,USA,2,Female,53,,Yes,,USA,,3
+3,english,USA,2,Male,42,,Yes,2,USA,,2
+4,english,USA,2,Female,20,,Confused,,USA,,2
+5,English,USA,2,Male,28,,Yes,,USA,,2
+6,English,USA,1,Female,40,,No,,USA,,4
+7,English,USA,2,Male,31,No comments,Yes,,USA,,3
+8,English,USA,2,Female,48,,Yes,,USA,,4

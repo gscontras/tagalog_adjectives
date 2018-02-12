@@ -1,0 +1,10 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,English,USA,1,Female,47,Good experiment,Yes,12,USA,None,3
+1,english,USA,1,Female,58,,Yes,,USA,none,2
+2,English,USA,1,Male,32,,Yes,,USA,,4
+3,English,USA,2,Female,33,,Yes,,USA,,4
+4,English,USA,2,Male,45,,Yes,N/A,USA,N/A,2
+5,Filipino,Philippines,2,Male,26,great task,Yes,5,USA,english,3
+6,filipino,Philippines,1,Male,20,,Yes,12,USA,english,0
+7,,USA,1,Female,24,,Yes,,USA,,1
+8,HINDI,Other,2,Male,26,GOOD,No,20,USA,ENGLISH,3
