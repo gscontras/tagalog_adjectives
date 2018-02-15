@@ -1,0 +1,10 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,,USA,-1,Male,25,,Yes,,Philippines,,1
+1,english,USA,1,Male,45,,Yes,18,USA,Cebuano,3
+2,Filipino,Philippines,0,Male,25,no,Yes,15,USA,english,1
+3,Filipino,Philippines,0,Male,25,wala,Yes,12,USA,english,1
+4,Filipino,Philippines,1,Female,25,mabuti survey.,Yes,Hindi,Philippines,Hindi,3
+5,-,Other,0,Female,-,---,No,-,Other,-,2
+6,tech,USA,0,Female,25,no,No,tech,USA,tech,1
+7,spanish,USA,2,Female,27,no,No,20,Philippines,no,4
+8,,USA,0,Female,1,,No,,Philippines,,2

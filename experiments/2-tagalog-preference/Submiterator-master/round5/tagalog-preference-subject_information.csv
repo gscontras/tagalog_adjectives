@@ -1,0 +1,10 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,English,USA,1,Female,27,It was fine. ,Yes,,USA,"Tagalog, Ilokano, French, Spanish",4
+1,Filipino,Philippines,0,Male,28,,Yes,18,USA,english,3
+2,Tagalog,Philippines,1,Female,40,Wala,Yes,28,USA,English,3
+3,,USA,1,Male,27,,No,,USA,,3
+4,,USA,-1,Other,,,No,,USA,,2
+5,Filipino,Philippines,1,Male,23,,Confused,6,USA,English,1
+6,bisaya,Philippines,1,Female,39,,Yes,22,USA,english,3
+7,English ,USA,2,Male,35,Ito ang unang Filipino na survey na aking sinagutan! Natuwa ako at naging interesado sa eksperimentong ito! Salamat at maligayang araw ni Valentine!,Yes,1,USA,Filipino,3
+8,,USA,0,Female,,,No,,USA,,1

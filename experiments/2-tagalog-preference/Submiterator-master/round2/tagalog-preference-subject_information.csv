@@ -1,0 +1,10 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,23,USA,1,Female,25,,NA,23,USA,English and Philippine ,3
+1,,USA,1,Male,,nice survy,Confused,yes,USA,,3
+2,,,-1,Female,,,No,,,,-1
+3,English,USA,1,Male,29,,Yes,,USA,Tagalog,3
+4,,USA,-1,Male,,,No,,USA,,3
+5,,USA,1,Female,,,Yes,,USA,,-1
+6,philipines,Philippines,1,Female,,,No,yes,USA,yes,1
+7,filipino,Philippines,2,Female,29,good,Yes,no,Philippines,no,3
+8,NO,USA,1,Male,NO,GOOD,Yes,NO,Philippines,NO,1
