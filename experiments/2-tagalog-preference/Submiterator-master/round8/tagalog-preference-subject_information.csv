@@ -1,0 +1,11 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,,Other,-1,Male,,,Yes,,USA,,1
+1,GOOD,Philippines,0,Male,GOOD,GOOD,No,GOOD,Philippines,GOOD,1
+2,OO,USA,0,Male,27,,Confused,OO,USA,TAGALOG,3
+3,Philippiness,Philippines,1,Female,27,mabuti,Yes,4,Philippines,English,3
+4,hindi,USA,0,Female,21,,Confused,hindi,USA,English,3
+5,,USA,1,Female,,,No,,USA,,2
+6,no,USA,1,Male,26,good,No,5,USA,0,1
+7,Ingles,Other,0,Male,30,"magandang survey
+",Yes,oo,Other,lngles,3
+8,,USA,-1,Male,,,Yes,,USA,,1
