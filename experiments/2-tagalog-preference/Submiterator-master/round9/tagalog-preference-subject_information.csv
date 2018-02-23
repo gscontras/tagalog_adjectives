@@ -1,0 +1,10 @@
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,0,USA,1,Male,0,0,Yes,0,USA,0,1
+1,,USA,2,Male,37,,Yes,20 years,USA,,3
+2,Kapampangan,Philippines,2,Male,42,Mas tama yatang gamitin ang Pilipino kaysa sa Tagalog. ,Yes,25,USA,Ingles at Filipino,3
+3,,Philippines,0,Female,27,,Yes,11,USA,,3
+4,English,USA,0,Female,35,,Confused,1,USA,Tagalog,-1
+5,English,USA,0,Female,good,,Confused,10,USA,,3
+6,filipino,Philippines,1,Female,35,good study ,No,8,USA,english,4
+7,,Philippines,-1,Male,,,No,,Philippines,,2
+8,Tagalog,Philippines,2,Female,22,,Yes,,Philippines,,3

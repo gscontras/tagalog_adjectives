@@ -1,16 +1,16 @@
-library(ggplot2)
-library(lme4)
 library(hydroGOF)
 library(dplyr)
 #library(tidyr)
 
-setwd("~/Documents/git/tagalog_adjectives/experiments/1-order-preference/Submiterator-master")
-setwd("~/git/tagalog_adjectives/experiments/1-order-preference/Submiterator-master")
+setwd("~/Documents/git/tagalog_adjectives/experiments/2-tagalog-preference/Submiterator-master")
+setwd("~/git/tagalog_adjectives/experiments/2-tagalog-preference/Submiterator-master")
+
+source("../results/helpers.r")
 
 num_round_dirs = 5
 df = do.call(rbind, lapply(1:num_round_dirs, function(i) {
   return (read.csv(paste(
-    'round', i, '/tagalog-order.csv', sep=''),stringsAsFactors=FALSE) %>% 
+    'round', i, '/tagalog-preference.csv', sep=''),stringsAsFactors=FALSE) %>% 
       mutate(workerid = (workerid + (i-1)*9)))}))
 
 d = subset(df, select=c("workerid","noun","nounclass","slide_number", "predicate1", "predicate2", "class1","class2","response","language","born","age","assess","agemove","live","dialects","education"))
@@ -18,7 +18,9 @@ d = subset(df, select=c("workerid","noun","nounclass","slide_number", "predicate
 # re-factorize
 d[] <- lapply( d, factor) 
 
-t = d[d$language!=""&d$language!="HINDI"&d$language!="English"&d$language!="english"&d$language!="ENGLISH",]
+unique(d$language)
+
+t = d[d$language=="Tagalog"|d$language=="tagalog"|d$language=="Bisaya"|d$language=="filipino"|d$language=="Filipino"|d$language=="bisaya",]
 
 t$response = as.numeric(as.character(t$response))
 
@@ -56,9 +58,11 @@ adj_agr
 
 class_agr = aggregate(correctresponse~correctclass,FUN=mean,data=agr)
 
-ggplot(data=class_agr,aes(x=reorder(correctclass,-correctresponse,mean),y=correctresponse))+
+class_s = bootsSummary(data=agr, measurevar="correctresponse", groupvars=c("correctclass"))
+
+ggplot(data=class_s,aes(x=reorder(correctclass,-correctresponse,mean),y=correctresponse))+
   geom_bar(stat="identity")+
-  #geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(class1,-correctresponse,mean), width=0.1),alpha=0.5)+
+  geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(correctclass,-correctresponse,mean), width=0.1),alpha=0.5)+
   xlab("\nadjective class")+
   ylab("distance from noun\n")+
   ylim(0,1)+
