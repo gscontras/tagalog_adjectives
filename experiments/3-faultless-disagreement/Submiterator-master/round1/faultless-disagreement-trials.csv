@@ -1,0 +1,27 @@
+workerid,firstutterance,predicate,noun,response,nounclass,slide_number,class
+0,ay hindi,aluminyo,mesa,0.4,furniture,3,material
+0,ay,parihaba,keso,0.9,food,4,shape
+0,ay hindi,maganda,karot,0.33,food,5,quality
+0,ay,berde,mesa,0.79,furniture,6,color
+0,ay,makinis,mesa,0.53,furniture,7,texture
+0,ay hindi,mahaba,silya,0.83,furniture,8,size
+0,ay,dilaw,keso,0.48,food,9,color
+0,ay,luma,karot,0.81,food,10,age
+0,ay hindi,bago,television,0.44,furniture,11,age
+0,ay hindi,maliit,mansanas,0.77,food,12,size
+0,ay hindi,cuadrado,television,0.36,furniture,13,shape
+0,ay hindi,malambot,mansanas,0.85,food,14,texture
+0,ay,kahoy,mesa,0.61,furniture,15,material
+0,ay hindi,tatsulok,keso,0.86,food,16,shape
+0,ay hindi,bilog,kamatis,0.59,food,17,shape
+0,ay,maikli,mesa,0.84,furniture,18,size
+0,ay hindi,puti,keso,0.58,food,19,color
+0,ay,sira,mansanas,0.79,food,20,quality
+0,ay,asul,lampara,0.59,furniture,21,color
+0,ay hindi,itim,keso,0.86,food,22,color
+0,ay,bakal,kamatis,0.59,food,23,material
+0,ay hindi,sariwa,keso,0.85,food,24,age
+0,ay hindi,malaki,kamatis,0.61,food,25,size
+0,ay,bulok,sopa,0.84,furniture,26,age
+0,ay,pula,mansanas,0.74,food,27,color
+0,ay,matigas,karot,0.9,food,28,texture
