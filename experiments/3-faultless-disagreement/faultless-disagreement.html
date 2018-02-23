@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Corpus-based faultless disagreement</title>
+    <title>Interpreting phrases of Tagalog</title>
 
     <!--JS-->
 
@@ -53,104 +53,145 @@
 
   <div class="slide" id="i0" >
     <img src="../_shared/images/cocologo.png" alt="Stanford CoCoLab" id="cocologo"></img>
-    <p id="cocolab">Stanford CoCoLab</p>
-    <p id="instruct-text">This HIT involves interpreting sentences of English. The task should take about six minutes. Please pay attention. Thanks!</p>
-    <button id="start_button" type="button">Start Experiment</button>
-    <p id="legal">Legal information: By answering the following questions, you are participating in a study being performed by cognitive scientists in the Stanford Department of Psychology. If you have questions about this research, please contact Greg Scontras at <a href="mailto://scontras@stanford.edu">scontras@stanford.edu</a> or Noah Goodman, at ngoodman@stanford.edu. You must be  at least 18 years old to participate. Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.</p>
+    <p id="cocolab">UC Irvine Linguistics</p>
+    <p id="instruct-text">Ang mga survey na ito ay nilalaman ng mga pariralang Tagalog. Ang mga gawain na ito ay aabutin ng mahigit kumulang na anim na minuto. Kung pwede lang ay bigyan ng kaukulang pansin. Maraming salamat!</p>
+    <button id="start_button" type="button">Simulan Eksperimento</button>
+    <div class = "scrollbox">
+    <p><b>Ligal na kaalaman:</b></p>
+    <p id="legal" align="left">Kami ay humihingi sa inyo para kayo ay makibahagi sa isinapagawang pagsisiyasat sa Universidad ng California sa Irvine. 
+    Ikaw ay marapat sa kababababaan 18 taon na sumali.
+    Kung may tanong ka o malasakit tungkol sa iyong mga karapatan bilang kalahok sa pananaliksik makipag ugnayan sa institutional review board sa pamamagitan ng (949) 824-6662 e-mail sa mailto:IRB@research.uci.edu or sa 141 Innovation , suite 250, Irvine ca 92697.
+    Ano ang isang irb? Ang isang institusyon ng pagsusuri ng komitena binubuo ng siyentipiko at hindi siyentipiko. Ang ginagampanan ay para protektahan ang mga karapatan at karapatan ng mga tao sa panaliksik. Tinitiyak din ng irb na pananaliksik ay sumusunod sa batas and reguridad at patakaran sa institutional.
+    Ang pagsali ay hindi sapilitang.  
+    Kung ikaw mamimili sa pagaaral kakailangin mong tapusin ang pagsisisayat. Ang pagsisiyasat ay   makakatulong sa karagdagang pagaaral tungkol sa mga pagkaraniwang wika. Ang mga gawain na   ito ay aabutin ng anim na minuto. 
+    Makisali sa araling ito ay hindi sapilitang. 
+    Kung mayroon kayong mga katanungan makipagalaman kay Suttera Samonte dito sa <a href="mailto://ssamonte@uci.edu">ssamonte@uci.edu</a> o Greg Scontras, sa gscontra@uci.edu 
+    Pag hihingi ng kurokuro. Na walang dapat ikabahala at magsisibing uhim. 
+    Kung maari hindi kailangan ilagay ang pankalan. O ibang kaalaman na pwudeng gamitin para matukoy ang naturang tao sa survey na ito. Kung gusto mong maki-bahagi sa pagaaral na ito pisilin ang Simulan Experimento buton para umpisahan ang pag sisiyasat.
+    </p>
+</div><br>
   </div>
 
   <div class="slide" id="instructions1">
-    <h3>Instructions</h3>
-    <p> You will see 26 short dialogues. In each dialogue, speakers disagree about an object. Your task is to determine whether one speaker must be wrong, or whether both speakers can be right.</p>
+    <h3>Pag tuturo</h3>
+    <p> Makakakita ka ng 26 na maiksing salita. Ang mga nag sasalita ay hindi naniniwala tungkol sa isang bagay. Ang dapat mong gawin ay malaman mo ang salita kung ito ay mali o pareho sila nagsasalita ng tama.</p>
     <!-- <p class="instruction_condition">{{}}</p> -->
-    <button onclick="_s.button()">Continue</button>
+    <button onclick="_s.button()">Susunod</button>
   </div>
 
   <div class="slide" id="multi_slider">
 
   <p class="name_said"></p>
 
-    <p>Consider the following situation:</p>
+    <p>Isaalang-alang ang sitwasyon:</p>
 
 <!--    <p><span class = "woman">{{}}</span> sold a <span class="noun">{{}}</span> in her store.</p>
 
     <p><span class="man1">{{}}</span> entered <span class = "woman">{{}}</span>'s store, noticed the <span class="noun">{{}}</span>, and said:</p>
     -->
-    <p><span class="man1">{{}}</span> and <span class="man2">{{}}</span> see the same <span class="noun">{{}}</span>.</p> 
-    <p><span class="man1">{{}}</span> says: <b><span class="utterance1">{{}}</span></b></p>
+    <p><span class="man1">{{}}</span> at <span class="man2">{{}}</span> ay nakakita ng parehong <span class="noun">{{}}</span>.</p> 
+    <p>Sabi ni <span class="man1">{{}}</span>: <b><span class="utterance1">{{}}</span></b></p>
 
-    <p><span class="man2">{{}}</span> responds: <b><span class="utterance2">{{}}</span></b></p>
+    <p>Sumagot si <span class="man2">{{}}</span>: <b><span class="utterance2">{{}}</span></b></p>
 
 <!--     <p>Do the statements make sense?</p>
     <label><input type="radio"  name="sense" value="Yes"/>Yes</label>
     <label><input type="radio"  name="sense" value="No"/>No</label>
     </br></br>
  -->
-    <p>Can both <span class="man1">{{}}</span> and <span class="man2">{{}}</span> be right?</p>
+    <p>Maaaring maging pareho sila ni <span class="man1">{{}}</span> at si <span class="man2">{{}}</span> ay tama?</p>
     <table id="multi_slider_table" class="slider_table">
 <!--      <tr><td class="left">No, somebody must be wrong.</td><td class="right">Yes, it's a matter of opinion.</td></tr> -->
-      <tr><td>No, somebody must be wrong.</td><td><div id="slider0" class="slider"></div></td><td>Yes, it's a matter of opinion.</td></tr>
+      <tr><td>Isa sa kanila dapat ay tama. </td><td><div id="slider0" class="slider"></div></td><td>Oo, depende sa anong iyong paniniwala.</td></tr>
     </table>
 
-    <button onclick="_s.button()">Continue</button>
-    <div class="err">Please adjust all the sliders before continuing.</div>
+    <button onclick="_s.button()">Susunod</button>
+    <div class="err">Bago mag-patuloy alamin ang panukala na dapat baguhin.</div>
   </div>
 
   <div class="slide"  id="subj_info">
     <div class="long_form">
-      <div class="subj_info_title">Additional information</div>
-      <p class="info">Answering these questions is optional, but will help us understand your answers.</p>
-      <p>Did you read the instructions and do you think you did the HIT correctly?</p>
-      <label><input type="radio"  name="assess" value="No"/>No</label>
-      <label><input type="radio"  name="assess" value="Yes"/>Yes</label>
-      <label><input type="radio"  name="assess" value="Confused"/>I was confused</label>
+      <div class="subj_info_title">Karagdagang Impormasyon</div>
+      <p class="info">Sagutin ang mga katanungan ay hindi kinakailangan. Ngunit makaka-tulong ito sa pagsasagot ng mga kaalaman. </p>
+      <p>Binasa mo ba ng instruksyon ng survey at sinunod mo ba? </p>
+      <label><input type="radio"  name="assess" value="No"/>Hindi</label>
+      <label><input type="radio"  name="assess" value="Yes"/>Oo</label>
+      <label><input type="radio"  name="assess" value="Confused"/>Naguguluhan ako</label>
 
-      <p>Gender:
+
+      <p>Kasarian:
         <select id="gender">
           <label><option value=""/></label>
-          <label><option value="Male"/>Male</label>
-          <label><option value="Female"/>Female</label>
-          <label><option value="Other"/>Other</label>
+          <label><option value="Male"/>Lalake</label>
+          <label><option value="Female"/>Babae</label>
+          <label><option value="Other"/>Iba pa</label>
         </select>
       </p>
 
-      <p>Age: <input type="text" id="age"/></p>
+      <p>Idad: <input type="text" id="age"/></p>
 
-      <p>Level Of Education:
+      <p>Antas ng edukasyon:
         <select id="education">
           <label><option value="-1"/></label>
-          <label><option value="0"/>Some High School</label>
-          <label><option value="1"/>Graduated High School</label>
-          <label><option value="2"/>Some College</label>
-          <label><option value="3"/>Graduated College</label>
-          <label><option value="4"/>Hold a higher degree</label>
+
+          <label><option value="0"/>Ang mataas na paaralan</label>
+          <label><option value="1"/>Gradwado mataas na paaralan</label>
+          <label><option value="2"/>Ilan sa kolehiyo</label>
+          <label><option value="3"/>Gradwado kolehiyo</label>
+          <label><option value="4"/>Katibayan ng mataas na kalagayan</label>
+
         </select>
       </p>
 
-      <p>Native Language: <input type="text" id="language"/></p>
-      <label>(the language(s) spoken at home when you were a child)</label>
+      <p>Saan ka pinanganak?
+        <select id="born">
+          <label><option value=""/></label>
+          <label><option value="Philippines"/>Philippines</label>
+          <label><option value="USA"/>USA</label>
+          <label><option value="Other"/>Iba / Other</label>
+        </select>
+      </p>
 
-      <p>Did you enjoy the hit?</p>
+	  <p>Saan ka nakatira na?
+        <select id="live">
+          <label><option value=""/></label>
+          <label><option value="Philippines"/>Philippines</label>
+          <label><option value="USA"/>USA</label>
+          <label><option value="Other"/>Iba / Other</label>
+        </select>
+      </p>     
+
+       <p>Ilang toon ka na noong ikaw ay lumipat galing sa Pilipinas at lumipat sa ibang lugar? <input type="text" id="agemove"/></p>
+
+      <p>Katutubong Uika: <input type="text" id="language"/></p>
+      <label>(binibigkas ng linguahe sa bahay)</label>
+
+      <p>Kung ikaw ay nakakapagsalita nang ibang wika, ano ba ang ibang wika ang pwede mong isalita? <input type="text" id="dialects"/></p>
+
+      <p>Nagustuhan mo ba ang survey?
       <select id="enjoyment">
         <label><option value="-1"></option></label>
-        <label><option value="0">Worse than the Average HIT</option></label>
-        <label><option value="1" >An Average HIT</option></label>
-        <label><option value="2">Better than average HIT</option></label>
+
+        <label><option value="0">Hindi magandang survey</option></label>
+        <label><option value="1" >Survey humigit kumulang</option></label>
+        <label><option value="2">Mas mabuti kaysa karaniwan survey</option></label>
+        </p>
+
       </select>
 
-      <p>We would be interested in any comments you have about this experiment. Please type them here:</p>
+      <p>Interesado kami sa commento nyo sa experimentong ito. Paki type nyo dito: </p>
       <textarea id="comments" rows="3" cols="50"></textarea>
       <br/>
-      <button onclick="_s.submit()">Submit</button>
+      <button onclick="_s.submit()">Ibigay</button>
     </div>
   </div>
 
   <div id="thanks" class="slide js" >
-    <p  class="big">Thanks for your time!</p>
+    <p  class="big">Salamat so horas nyo! </p>
   </div>
 
   <div class="progress">
-    <span>Progress:</span>
+    <span>Progreso:</span>
     <div class="bar-wrapper">
       <div class="bar" width="0%">
       </div>
