@@ -7,7 +7,7 @@ setwd("~/git/tagalog_adjectives/experiments/2-tagalog-preference/Submiterator-ma
 
 source("../results/helpers.r")
 
-num_round_dirs = 5
+num_round_dirs = 10
 df = do.call(rbind, lapply(1:num_round_dirs, function(i) {
   return (read.csv(paste(
     'round', i, '/tagalog-preference.csv', sep=''),stringsAsFactors=FALSE) %>% 
@@ -20,7 +20,7 @@ d[] <- lapply( d, factor)
 
 unique(d$language)
 
-t = d[d$language=="Tagalog"|d$language=="tagalog"|d$language=="Bisaya"|d$language=="filipino"|d$language=="Filipino"|d$language=="bisaya",]
+t = d[d$language=="Tagalog"|d$language=="tagalog"|d$language=="Bisaya"|d$language=="filipino"|d$language=="Filipino"|d$language=="bisaya"|d$language=="TAGALOG"|d$language=="FILIPINO"|d$language=="Kapampagan"|d$language=="Wikang Pilipino",]
 
 t$response = as.numeric(as.character(t$response))
 
