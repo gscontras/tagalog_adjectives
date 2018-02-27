@@ -72,6 +72,20 @@ ggplot(data=class_s,aes(x=reorder(correctclass,-correctresponse,mean),y=correctr
 #ggsave("../results/class_distance.pdf",height=3)
 
 
+#### comparison with faultless disgareement
 
+f = read.csv("../../3-faultless-disagreement/results/pred-subjectivity.csv",header=T)
 
+adj_agr$subjectivity = f$response[match(adj_agr$predicate,f$predicate)]
 
+gof(adj_agr$correctresponse,adj_agr$subjectivity)
+
+ggplot(adj_agr, aes(x=subjectivity,y=correctresponse)) +
+  geom_point() +
+  #geom_smooth()+
+  stat_smooth(method="lm")+
+  geom_text(aes(label=predicate),size=2.5,vjust=1.5)+
+  ylab("naturalness\n")+
+  xlab("\nsubjectivity")+
+  theme_bw()
+#ggsave("../results/naturalness-subjectivity.pdf",height=3,width=4)
