@@ -1,2 +1,47 @@
-workerid
-0
+workerid,language,born,enjoyment,gender,age,comments,assess,agemove,live,dialects,education
+0,1,Other,2,Female,1989,66,NA,1,Other,2,2
+1,linguahe,USA,0,Male,yes,good,No,ibang lugar,USA,isalita,0
+2,1.25,Other,2,Female,tamil,23586,Yes,61,Other,,2
+3,yes,Philippines,0,Male,27,nothing,No,1,Philippines,yes,1
+4,English,Philippines,-1,Female,30,,Yes,Pilipinas ,USA,,1
+5,yes,Philippines,0,Male,27,it is good work,No,yes,Philippines,yes,4
+6,tagalog,Philippines,2,Female,22,,Yes,NA,Philippines,English,3
+7,Ang Pilipinas ay isa sa mga bansang may pinakamaraming wika sa buong daigdig.,USA,0,Male,NO IDEA,NO IDEA,No,Ang Komonwelt ng Pilipinas (Ingles: Commonwealth of the Philippines;,USA,". Kalipunan ito ng mga simbolo, tunog, at mga kaugnay na bantas upang maipahayag ang nais sabihin ng kaisipan. ",0
+8,25,Other,1,Female,25,,NA,52,Other,25,2
+9,english,USA,1,Male,30,,Yes,0,USA,english,3
+10,,,-1,Female,,,Yes,,,,-1
+11,filipino,Philippines,0,Female,25,na,No,12,Philippines,english,0
+12,filipino,Philippines,0,Male,25,,Yes,16,Philippines,english,1
+13,Tagalog,Philippines,1,Female,28,Bibihura ang ganitong klase ng survey.  Paghusayan ninyo pa.,Yes,20,USA,"Engles, Kapampangan",3
+14,GOOD,Other,1,Male,GOOD,VERY NICE,No,GOOD,Other,GOOD,3
+15,Tagalog,Philippines,1,Female,37,,Yes,5,USA,English,3
+16,Ingles,USA,2,Female,40,"
+Ito ay isang kawili-wiling survey",Yes,4,USA,,1
+17,,USA,1,Female,,,No,,USA,,0
+18,,USA,0,Female,,,Confused,,USA,,0
+19,GOOD,Other,2,Female,GOOD,GOOD,Yes,GOOD,Other,GOOD,3
+20,Tagalog ,Philippines,0,Female,36,,Confused,29,USA,,-1
+21,Cebuano,Philippines,2,Female,27,Minsan nakakalito yung mga tanung.,Yes,5,Philippines,English,3
+22,Filipino,Philippines,0,Male,28,,No,6,USA,English,3
+23,,,1,Female,,,No,,Other,,3
+24,,USA,0,Male,27,,No,,USA,,3
+25,bisaya,Philippines,2,Female,30,,Yes,25,Other,english,3
+26,YES,USA,1,Female,YES,GOOD,No,YES,USA,YES,3
+27,good,USA,0,Male,YES,GOOD,No,YES,USA,GOOD,2
+28,nage,USA,0,Female,sivam,bahuth acha good,No,yes,Philippines,nage,0
+29,,,-1,,,,NA,,,,-1
+30,Tagalog,Philippines,1,Female,35,walang masabi,Yes,,Philippines,Ingles,3
+31,,Philippines,1,Female,25,MAGANDA,Yes,,Philippines,INGLES,3
+32,,,-1,Female,,,Yes,,,,-1
+33,,Philippines,2,Male,,,Yes,10,USA,,2
+34,American,USA,1,Male,26,,Yes,0,Other,English,3
+35,YES,USA,-1,Female,25,,No,4,USA,,0
+36,english,Philippines,2,Male,,no,No,15,USA,hindi,3
+37,filipino,USA,1,Male,karan,nice,No,yes,Philippines,yes,2
+38,English,USA,1,Male,31,Akala ko ang survey na ito ay kagiliw-giliw na gawin. Salamat sa oportunidad.,Yes,N/A,USA,Filipino,3
+39,,USA,1,Female,,,No,,USA,,2
+40,,Other,-1,Male,IN,,Yes,,Other,,0
+41,YES,USA,0,Male,FEMALE,GOOD,No,YES,USA,YES,1
+42,"coimbatore,tamil",Other,2,Male,28,mabuti,Yes,2,Other,"filipino,english,hindi,telugu",4
+43,ay ang wika na natutunan ng isang tao mula nang ,USA,0,Female,1.0,good,No,pandalowsa,USA,Ang mga katutubong wika sa Pilipinas ay napapaloob sa pamilya,1
+44,"Ingles, tagalog",Philippines,1,Female,23,,Yes,2,USA,tagalog,2

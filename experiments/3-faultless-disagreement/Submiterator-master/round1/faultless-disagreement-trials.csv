@@ -1,2 +1,1171 @@
-workerid
-0
+workerid,firstutterance,predicate,noun,response,nounclass,slide_number,class
+0,ay hindi,parihaba,kamatis,0.49,food,3,shape
+0,ay,sariwa,lampara,0.83,furniture,4,age
+0,ay,mahaba,mesa,0.32,furniture,5,size
+0,ay,malambot,mesa,0.67,furniture,6,texture
+0,ay hindi,cuadrado,karot,0.73,food,7,shape
+0,ay hindi,dilaw,keso,0.78,food,8,color
+0,ay,aluminyo,saging,0.08,food,9,material
+0,ay hindi,berde,kamatis,0.46,food,10,color
+0,ay hindi,malaki,karot,0.66,food,11,size
+0,ay,tatsulok,saging,0.7,food,12,shape
+0,ay hindi,pula,television,0.62,furniture,13,color
+0,ay,bago,mansanas,0.66,food,14,age
+0,ay hindi,bilog,keso,0.73,food,15,shape
+0,ay hindi,asul,television,0.76,furniture,16,color
+0,ay,maliit,kamatis,0.81,food,17,size
+0,ay hindi,maganda,saging,0.84,food,18,quality
+0,ay,makinis,kamatis,0.81,food,19,texture
+0,ay,itim,mesa,0.81,furniture,20,color
+0,ay,luma,mansanas,0.8,food,21,age
+0,ay,bulok,saging,0.68,food,22,age
+0,ay,matigas,mansanas,0.67,food,23,texture
+0,ay,bakal,lampara,0.69,furniture,24,material
+0,ay hindi,sira,television,0.75,furniture,25,quality
+0,ay hindi,puti,silya,0.77,furniture,26,color
+0,ay,kahoy,sopa,0.8,furniture,27,material
+0,ay hindi,maikli,keso,0.85,food,28,size
+1,ay hindi,pula,sopa,0.45,furniture,3,color
+1,ay,dilaw,lampara,0.55,furniture,4,color
+1,ay hindi,bago,mansanas,0.66,food,5,age
+1,ay hindi,malaki,saging,0.76,food,6,size
+1,ay,asul,keso,0.68,food,7,color
+1,ay hindi,mahaba,kamatis,0.74,food,8,size
+1,ay,bakal,television,0.72,furniture,9,material
+1,ay hindi,maliit,karot,0.73,food,10,size
+1,ay,maikli,saging,0.74,food,11,size
+1,ay hindi,puti,lampara,0.91,furniture,12,color
+1,ay hindi,malambot,silya,0.92,furniture,13,texture
+1,ay,sariwa,lampara,0.89,furniture,14,age
+1,ay,bilog,sopa,0.56,furniture,15,shape
+1,ay hindi,maganda,karot,0.25,food,16,quality
+1,ay hindi,makinis,karot,0.26,food,17,texture
+1,ay hindi,cuadrado,mesa,0.88,furniture,18,shape
+1,ay,luma,silya,0.25,furniture,19,age
+1,ay hindi,berde,saging,0.83,food,20,color
+1,ay hindi,aluminyo,mesa,0.2,furniture,21,material
+1,ay hindi,parihaba,kamatis,0.59,food,22,shape
+1,ay,itim,lampara,0.87,furniture,23,color
+1,ay hindi,sira,kamatis,0.39,food,24,quality
+1,ay hindi,kahoy,mansanas,0.79,food,25,material
+1,ay hindi,bulok,silya,0.45,furniture,26,age
+1,ay hindi,tatsulok,lampara,0.77,furniture,27,shape
+1,ay,matigas,kamatis,0.5,food,28,texture
+2,ay,sariwa,silya,0.08,furniture,3,age
+2,ay hindi,malaki,mesa,0.16,furniture,4,size
+2,ay hindi,pula,sopa,0.27,furniture,5,color
+2,ay,berde,kamatis,0.46,food,6,color
+2,ay hindi,aluminyo,mansanas,0.58,food,7,material
+2,ay hindi,dilaw,mansanas,0.71,food,8,color
+2,ay,kahoy,kamatis,0.75,food,9,material
+2,ay hindi,makinis,karot,0.24,food,10,texture
+2,ay,bulok,kamatis,0.37,food,11,age
+2,ay,bilog,television,0.44,furniture,12,shape
+2,ay,bago,karot,0.58,food,13,age
+2,ay,matigas,mesa,0.67,furniture,14,texture
+2,ay,malambot,kamatis,0.79,food,15,texture
+2,ay,sira,saging,0.87,food,16,quality
+2,ay,maliit,keso,0.15,food,17,size
+2,ay,itim,lampara,0.46,furniture,18,color
+2,ay hindi,cuadrado,kamatis,0.37,food,19,shape
+2,ay hindi,maikli,kamatis,0.37,food,20,size
+2,ay hindi,luma,mesa,0.37,furniture,21,age
+2,ay,mahaba,karot,0.47,food,22,size
+2,ay,asul,silya,0.59,furniture,23,color
+2,ay,parihaba,lampara,0.68,furniture,24,shape
+2,ay,puti,mesa,0.83,furniture,25,color
+2,ay,bakal,mesa,0.46,furniture,26,material
+2,ay hindi,tatsulok,television,0.71,furniture,27,shape
+2,ay hindi,maganda,mansanas,0.51,food,28,quality
+3,ay,cuadrado,karot,0.71,food,3,shape
+3,ay hindi,malaki,lampara,0.63,furniture,4,size
+3,ay,aluminyo,kamatis,0.71,food,5,material
+3,ay hindi,puti,lampara,0.7,furniture,6,color
+3,ay,pula,silya,0.79,furniture,7,color
+3,ay,dilaw,kamatis,0.65,food,8,color
+3,ay hindi,asul,mesa,0.52,furniture,9,color
+3,ay hindi,maikli,silya,0.75,furniture,10,size
+3,ay hindi,itim,mansanas,0.62,food,11,color
+3,ay hindi,berde,mansanas,0.75,food,12,color
+3,ay,matigas,television,0.62,furniture,13,texture
+3,ay,bulok,sopa,0.74,furniture,14,age
+3,ay,malambot,keso,0.51,food,15,texture
+3,ay,mahaba,kamatis,0.72,food,16,size
+3,ay,sariwa,mansanas,0.36,food,17,age
+3,ay,kahoy,lampara,0.66,furniture,18,material
+3,ay hindi,bilog,lampara,0.59,furniture,19,shape
+3,ay,parihaba,lampara,0.76,furniture,20,shape
+3,ay hindi,sira,mansanas,0.6,food,21,quality
+3,ay,maganda,sopa,0.74,furniture,22,quality
+3,ay hindi,bago,lampara,0.62,furniture,23,age
+3,ay hindi,tatsulok,karot,0.73,food,24,shape
+3,ay hindi,makinis,mesa,0.47,furniture,25,texture
+3,ay hindi,luma,lampara,0.71,furniture,26,age
+3,ay,bakal,television,0.63,furniture,27,material
+3,ay hindi,maliit,kamatis,0.68,food,28,size
+4,ay,cuadrado,lampara,0.61,furniture,3,shape
+4,ay hindi,bakal,television,0.66,furniture,4,material
+4,ay hindi,pula,mesa,0.7,furniture,5,color
+4,ay,luma,saging,0.68,food,6,age
+4,ay hindi,mahaba,sopa,0.63,furniture,7,size
+4,ay hindi,kahoy,karot,0.76,food,8,material
+4,ay,malaki,lampara,0.33,furniture,9,size
+4,ay,matigas,karot,0.84,food,10,texture
+4,ay hindi,bago,karot,0.87,food,11,age
+4,ay hindi,parihaba,mansanas,0.48,food,12,shape
+4,ay hindi,bilog,sopa,0.68,furniture,13,shape
+4,ay,makinis,karot,0.68,food,14,texture
+4,ay hindi,maganda,sopa,0.68,furniture,15,quality
+4,ay hindi,malambot,silya,0.74,furniture,16,texture
+4,ay,sariwa,television,0.51,furniture,17,age
+4,ay hindi,asul,mesa,0.7,furniture,18,color
+4,ay,dilaw,kamatis,0.72,food,19,color
+4,ay,tatsulok,television,0.79,furniture,20,shape
+4,ay,puti,karot,0.74,food,21,color
+4,ay,maliit,sopa,0.76,furniture,22,size
+4,ay hindi,berde,mesa,0.57,furniture,23,color
+4,ay,bulok,silya,0.61,furniture,24,age
+4,ay hindi,maikli,saging,0.62,food,25,size
+4,ay hindi,sira,television,0.75,furniture,26,quality
+4,ay hindi,aluminyo,television,0.59,furniture,27,material
+4,ay,itim,mesa,0.88,furniture,28,color
+5,ay hindi,maganda,mansanas,0.64,food,3,quality
+5,ay hindi,mahaba,karot,0.74,food,4,size
+5,ay,parihaba,mansanas,0.67,food,5,shape
+5,ay hindi,pula,mansanas,0.83,food,6,color
+5,ay hindi,itim,keso,0.65,food,7,color
+5,ay,bulok,sopa,0.79,furniture,8,age
+5,ay hindi,cuadrado,keso,0.67,food,9,shape
+5,ay hindi,sariwa,saging,0.76,food,10,age
+5,ay,berde,mesa,0.61,furniture,11,color
+5,ay,bilog,sopa,0.8,furniture,12,shape
+5,ay hindi,bakal,karot,0.65,food,13,material
+5,ay hindi,maikli,mesa,0.78,furniture,14,size
+5,ay,dilaw,saging,0.62,food,15,color
+5,ay hindi,malaki,keso,0.77,food,16,size
+5,ay,maliit,keso,0.62,food,17,size
+5,ay hindi,malambot,mesa,0.8,furniture,18,texture
+5,ay hindi,kahoy,television,0.77,furniture,19,material
+5,ay,puti,sopa,0.66,furniture,20,color
+5,ay,makinis,sopa,0.8,furniture,21,texture
+5,ay hindi,aluminyo,mansanas,0.74,food,22,material
+5,ay,asul,sopa,0.64,furniture,23,color
+5,ay hindi,bago,mesa,0.81,furniture,24,age
+5,ay hindi,sira,television,0.67,furniture,25,quality
+5,ay,tatsulok,television,0.8,furniture,26,shape
+5,ay,luma,silya,0.68,furniture,27,age
+5,ay hindi,matigas,kamatis,0.77,food,28,texture
+6,ay,pula,karot,0.02,food,3,color
+6,ay,cuadrado,mesa,0.92,furniture,4,shape
+6,ay hindi,maliit,silya,0.98,furniture,5,size
+6,ay,berde,karot,0.04,food,6,color
+6,ay hindi,luma,silya,0.94,furniture,7,age
+6,ay hindi,aluminyo,karot,0.04,food,8,material
+6,ay hindi,matigas,kamatis,0.95,food,9,texture
+6,ay,dilaw,silya,0.05,furniture,10,color
+6,ay,parihaba,lampara,0.97,furniture,11,shape
+6,ay hindi,itim,kamatis,0,food,12,color
+6,ay,makinis,television,0.98,furniture,13,texture
+6,ay,sira,saging,1,food,14,quality
+6,ay hindi,malaki,karot,0.99,food,15,size
+6,ay,sariwa,mesa,0.99,furniture,16,age
+6,ay,malambot,lampara,0.96,furniture,17,texture
+6,ay hindi,puti,kamatis,0.04,food,18,color
+6,ay hindi,tatsulok,television,0.99,furniture,19,shape
+6,ay,asul,lampara,0.03,furniture,20,color
+6,ay hindi,bago,keso,0.94,food,21,age
+6,ay,maganda,sopa,0.95,furniture,22,quality
+6,ay hindi,bilog,mansanas,0.96,food,23,shape
+6,ay,bakal,kamatis,0.03,food,24,material
+6,ay,maikli,mansanas,0.02,food,25,size
+6,ay,mahaba,silya,0.99,furniture,26,size
+6,ay hindi,bulok,sopa,1,furniture,27,age
+6,ay hindi,kahoy,lampara,0.97,furniture,28,material
+7,ay hindi,pula,lampara,0.76,furniture,3,color
+7,ay,parihaba,keso,0.65,food,4,shape
+7,ay hindi,asul,mansanas,0.87,food,5,color
+7,ay,mahaba,sopa,0.82,furniture,6,size
+7,ay,maganda,keso,0.76,food,7,quality
+7,ay hindi,itim,television,0.73,furniture,8,color
+7,ay hindi,tatsulok,kamatis,0.78,food,9,shape
+7,ay hindi,bulok,mesa,0.67,furniture,10,age
+7,ay hindi,luma,lampara,0.83,furniture,11,age
+7,ay,cuadrado,kamatis,0.68,food,12,shape
+7,ay hindi,bago,mesa,0.62,furniture,13,age
+7,ay,bilog,saging,0.7,food,14,shape
+7,ay hindi,maliit,sopa,0.66,furniture,15,size
+7,ay hindi,bakal,keso,0.7,food,16,material
+7,ay,malaki,saging,0.64,food,17,size
+7,ay,maikli,mansanas,0.45,food,18,size
+7,ay hindi,makinis,saging,0.63,food,19,texture
+7,ay,sariwa,saging,0.68,food,20,age
+7,ay,malambot,mansanas,0.7,food,21,texture
+7,ay hindi,kahoy,sopa,0.73,furniture,22,material
+7,ay,dilaw,silya,0.74,furniture,23,color
+7,ay,puti,silya,0.7,furniture,24,color
+7,ay,aluminyo,sopa,0.73,furniture,25,material
+7,ay,sira,sopa,0.76,furniture,26,quality
+7,ay,berde,keso,0.79,food,27,color
+7,ay hindi,matigas,keso,0.71,food,28,texture
+8,ay hindi,matigas,lampara,0.69,furniture,3,texture
+8,ay hindi,bilog,karot,0.85,food,4,shape
+8,ay hindi,sira,karot,0.85,food,5,quality
+8,ay,bulok,lampara,0.25,furniture,6,age
+8,ay,bago,silya,0.55,furniture,7,age
+8,ay hindi,malaki,lampara,0.47,furniture,8,size
+8,ay hindi,aluminyo,mesa,0.57,furniture,9,material
+8,ay,kahoy,karot,0.66,food,10,material
+8,ay hindi,itim,saging,0.49,food,11,color
+8,ay,bakal,mansanas,0.69,food,12,material
+8,ay,pula,television,0.54,furniture,13,color
+8,ay,tatsulok,lampara,0.69,furniture,14,shape
+8,ay,makinis,silya,0.49,furniture,15,texture
+8,ay,asul,mansanas,0.63,food,16,color
+8,ay hindi,maliit,mesa,0.65,furniture,17,size
+8,ay hindi,luma,keso,0.66,food,18,age
+8,ay hindi,parihaba,mesa,0.68,furniture,19,shape
+8,ay,maganda,mansanas,0.66,food,20,quality
+8,ay hindi,dilaw,keso,0.7,food,21,color
+8,ay hindi,mahaba,sopa,0.58,furniture,22,size
+8,ay hindi,malambot,lampara,0.64,furniture,23,texture
+8,ay hindi,puti,television,0.55,furniture,24,color
+8,ay,maikli,lampara,0.68,furniture,25,size
+8,ay,sariwa,television,0.56,furniture,26,age
+8,ay hindi,cuadrado,mesa,0.69,furniture,27,shape
+8,ay hindi,berde,karot,0.57,food,28,color
+9,ay hindi,pula,mesa,0.77,furniture,3,color
+9,ay,sariwa,silya,0.14,furniture,4,age
+9,ay,sira,karot,0.17,food,5,quality
+9,ay hindi,maganda,mesa,0,furniture,6,quality
+9,ay,bilog,mesa,0.99,furniture,7,shape
+9,ay hindi,tatsulok,karot,0.97,food,8,shape
+9,ay hindi,parihaba,karot,0.97,food,9,shape
+9,ay hindi,dilaw,sopa,0.98,furniture,10,color
+9,ay,makinis,silya,1,furniture,11,texture
+9,ay hindi,kahoy,sopa,1,furniture,12,material
+9,ay hindi,bago,keso,0.98,food,13,age
+9,ay,asul,lampara,0.97,furniture,14,color
+9,ay,cuadrado,television,0.96,furniture,15,shape
+9,ay hindi,maikli,karot,0.96,food,16,size
+9,ay hindi,mahaba,sopa,0.97,furniture,17,size
+9,ay hindi,bakal,television,0.98,furniture,18,material
+9,ay,itim,keso,0.96,food,19,color
+9,ay,maliit,sopa,0.99,furniture,20,size
+9,ay,aluminyo,mansanas,0.96,food,21,material
+9,ay hindi,puti,silya,0.95,furniture,22,color
+9,ay hindi,malaki,sopa,0.96,furniture,23,size
+9,ay,malambot,karot,0.94,food,24,texture
+9,ay hindi,matigas,keso,0.94,food,25,texture
+9,ay hindi,bulok,karot,0.95,food,26,age
+9,ay hindi,luma,kamatis,0.96,food,27,age
+9,ay hindi,berde,karot,0.92,food,28,color
+10,ay,tatsulok,mesa,0.64,furniture,3,shape
+10,ay hindi,mahaba,keso,0.43,food,4,size
+10,ay hindi,bakal,karot,0.66,food,5,material
+10,ay hindi,sira,silya,0.46,furniture,6,quality
+10,ay hindi,dilaw,mansanas,0.56,food,7,color
+10,ay hindi,berde,lampara,0.42,furniture,8,color
+10,ay hindi,bago,keso,0.41,food,9,age
+10,ay,malaki,television,0.57,furniture,10,size
+10,ay hindi,maliit,keso,0.36,food,11,size
+10,ay hindi,maganda,sopa,0.51,furniture,12,quality
+10,ay hindi,luma,sopa,0.41,furniture,13,age
+10,ay,bilog,mesa,0.59,furniture,14,shape
+10,ay,kahoy,television,0.46,furniture,15,material
+10,ay,asul,kamatis,0.43,food,16,color
+10,ay hindi,parihaba,television,0.65,furniture,17,shape
+10,ay hindi,bulok,karot,0.45,food,18,age
+10,ay,pula,mesa,0.56,furniture,19,color
+10,ay,puti,lampara,0.29,furniture,20,color
+10,ay,makinis,kamatis,0.51,food,21,texture
+10,ay,malambot,sopa,0.37,furniture,22,texture
+10,ay hindi,cuadrado,mesa,0.63,furniture,23,shape
+10,ay hindi,matigas,karot,0.52,food,24,texture
+10,ay,itim,sopa,0.45,furniture,25,color
+10,ay,sariwa,lampara,0.49,furniture,26,age
+10,ay hindi,maikli,lampara,0.64,furniture,27,size
+10,ay,aluminyo,television,0.43,furniture,28,material
+11,ay hindi,itim,mansanas,0.63,food,3,color
+11,ay,dilaw,television,0.41,furniture,4,color
+11,ay,mahaba,television,0.7,furniture,5,size
+11,ay hindi,aluminyo,sopa,0.48,furniture,6,material
+11,ay,bago,television,0.77,furniture,7,age
+11,ay,asul,television,0.3,furniture,8,color
+11,ay,matigas,saging,0.65,food,9,texture
+11,ay hindi,maliit,saging,0.44,food,10,size
+11,ay,makinis,saging,0.9,food,11,texture
+11,ay hindi,pula,kamatis,0.53,food,12,color
+11,ay,sariwa,saging,0.27,food,13,age
+11,ay,sira,silya,0.7,furniture,14,quality
+11,ay,maganda,kamatis,0.46,food,15,quality
+11,ay,cuadrado,kamatis,0.78,food,16,shape
+11,ay hindi,maikli,mansanas,0.25,food,17,size
+11,ay hindi,parihaba,keso,0.6,food,18,shape
+11,ay hindi,bakal,mansanas,0.82,food,19,material
+11,ay hindi,bulok,kamatis,0.38,food,20,age
+11,ay hindi,kahoy,silya,0.72,furniture,21,material
+11,ay,bilog,silya,0.51,furniture,22,shape
+11,ay hindi,malaki,keso,0.76,food,23,size
+11,ay hindi,puti,mesa,0.3,furniture,24,color
+11,ay,tatsulok,mesa,0.63,furniture,25,shape
+11,ay,luma,mesa,0.8,furniture,26,age
+11,ay hindi,malambot,sopa,0.3,furniture,27,texture
+11,ay,berde,sopa,0.55,furniture,28,color
+12,ay hindi,matigas,sopa,0.68,furniture,3,texture
+12,ay hindi,luma,kamatis,0.51,food,4,age
+12,ay hindi,malaki,kamatis,0.78,food,5,size
+12,ay hindi,maikli,silya,0.36,furniture,6,size
+12,ay,berde,television,0.49,furniture,7,color
+12,ay,sira,sopa,0.41,furniture,8,quality
+12,ay hindi,puti,saging,0.68,food,9,color
+12,ay hindi,bulok,television,0.48,furniture,10,age
+12,ay,malambot,mansanas,0.73,food,11,texture
+12,ay hindi,asul,keso,0.39,food,12,color
+12,ay hindi,maganda,lampara,0.72,furniture,13,quality
+12,ay hindi,cuadrado,mesa,0.54,furniture,14,shape
+12,ay hindi,bilog,sopa,0.74,furniture,15,shape
+12,ay hindi,dilaw,keso,0.64,food,16,color
+12,ay,makinis,lampara,0.4,furniture,17,texture
+12,ay hindi,sariwa,keso,0.68,food,18,age
+12,ay hindi,pula,keso,0.44,food,19,color
+12,ay,mahaba,keso,0.65,food,20,size
+12,ay,parihaba,sopa,0.77,furniture,21,shape
+12,ay hindi,tatsulok,lampara,0.37,furniture,22,shape
+12,ay hindi,maliit,karot,0.58,food,23,size
+12,ay hindi,aluminyo,sopa,0.72,furniture,24,material
+12,ay hindi,itim,sopa,0.78,furniture,25,color
+12,ay,bago,lampara,0.38,furniture,26,age
+12,ay hindi,kahoy,kamatis,0.56,food,27,material
+12,ay,bakal,television,0.76,furniture,28,material
+13,ay hindi,tatsulok,television,0.94,furniture,3,shape
+13,ay hindi,makinis,silya,0.94,furniture,4,texture
+13,ay hindi,bilog,kamatis,0.94,food,5,shape
+13,ay hindi,pula,television,0.94,furniture,6,color
+13,ay,itim,silya,0.99,furniture,7,color
+13,ay hindi,maganda,karot,0.94,food,8,quality
+13,ay,asul,mesa,0.98,furniture,9,color
+13,ay hindi,sariwa,mansanas,0.96,food,10,age
+13,ay hindi,malambot,television,0.91,furniture,11,texture
+13,ay,maikli,silya,0.99,furniture,12,size
+13,ay hindi,bakal,saging,0.06,food,13,material
+13,ay hindi,maliit,sopa,0.05,furniture,14,size
+13,ay,parihaba,mesa,0.04,furniture,15,shape
+13,ay,malaki,karot,0.96,food,16,size
+13,ay,bago,television,0.03,furniture,17,age
+13,ay hindi,dilaw,saging,0.99,food,18,color
+13,ay hindi,sira,silya,0.96,furniture,19,quality
+13,ay,mahaba,saging,0.09,food,20,size
+13,ay hindi,matigas,lampara,0.99,furniture,21,texture
+13,ay,bulok,karot,0.05,food,22,age
+13,ay hindi,kahoy,kamatis,0.1,food,23,material
+13,ay hindi,aluminyo,lampara,0.05,furniture,24,material
+13,ay hindi,puti,saging,0.96,food,25,color
+13,ay,berde,television,0.99,furniture,26,color
+13,ay hindi,cuadrado,mesa,0.99,furniture,27,shape
+13,ay hindi,luma,karot,0.97,food,28,age
+14,ay,bilog,television,0.4,furniture,3,shape
+14,ay,parihaba,saging,0.45,food,4,shape
+14,ay hindi,berde,karot,0.61,food,5,color
+14,ay hindi,maganda,television,0.49,furniture,6,quality
+14,ay hindi,itim,sopa,0.55,furniture,7,color
+14,ay hindi,cuadrado,karot,0.4,food,8,shape
+14,ay hindi,makinis,mansanas,0.53,food,9,texture
+14,ay hindi,luma,lampara,0.61,furniture,10,age
+14,ay,dilaw,karot,0.45,food,11,color
+14,ay,sariwa,saging,0.55,food,12,age
+14,ay,malambot,karot,0.57,food,13,texture
+14,ay,maikli,mesa,0.44,furniture,14,size
+14,ay hindi,bakal,keso,0.37,food,15,material
+14,ay,aluminyo,silya,0.48,furniture,16,material
+14,ay hindi,kahoy,keso,0.33,food,17,material
+14,ay hindi,pula,saging,0.33,food,18,color
+14,ay hindi,mahaba,silya,0.39,furniture,19,size
+14,ay hindi,asul,mesa,0.5,furniture,20,color
+14,ay,bulok,television,0.34,furniture,21,age
+14,ay,puti,mesa,0.63,furniture,22,color
+14,ay hindi,matigas,karot,0.69,food,23,texture
+14,ay,maliit,lampara,0.34,furniture,24,size
+14,ay hindi,sira,keso,0.36,food,25,quality
+14,ay,malaki,saging,0.61,food,26,size
+14,ay,tatsulok,silya,0.44,furniture,27,shape
+14,ay hindi,bago,lampara,0.48,furniture,28,age
+15,ay,bago,mansanas,0.04,food,3,age
+15,ay,maliit,sopa,0.02,furniture,4,size
+15,ay,itim,television,0,furniture,5,color
+15,ay hindi,asul,mesa,0.45,furniture,6,color
+15,ay hindi,tatsulok,mesa,0.01,furniture,7,shape
+15,ay hindi,makinis,lampara,0.87,furniture,8,texture
+15,ay hindi,bulok,kamatis,0.04,food,9,age
+15,ay hindi,malambot,keso,0.89,food,10,texture
+15,ay,luma,keso,0.04,food,11,age
+15,ay,maikli,mesa,0.5,furniture,12,size
+15,ay hindi,puti,television,0.05,furniture,13,color
+15,ay hindi,sira,karot,0.55,food,14,quality
+15,ay hindi,cuadrado,lampara,0.03,furniture,15,shape
+15,ay,maganda,saging,0.92,food,16,quality
+15,ay,mahaba,mesa,0.96,furniture,17,size
+15,ay,sariwa,television,0.25,furniture,18,age
+15,ay,kahoy,saging,0.01,food,19,material
+15,ay hindi,pula,television,0.06,furniture,20,color
+15,ay,berde,keso,0.2,food,21,color
+15,ay hindi,aluminyo,television,0.14,furniture,22,material
+15,ay,bakal,television,0.05,furniture,23,material
+15,ay hindi,dilaw,kamatis,0.27,food,24,color
+15,ay,matigas,kamatis,0.11,food,25,texture
+15,ay hindi,parihaba,keso,0.06,food,26,shape
+15,ay,malaki,keso,0.5,food,27,size
+15,ay,bilog,television,0.07,furniture,28,shape
+16,ay hindi,malaki,karot,1,food,3,size
+16,ay,maliit,mesa,0.02,furniture,4,size
+16,ay,itim,mesa,0,furniture,5,color
+16,ay hindi,sira,saging,0.02,food,6,quality
+16,ay hindi,aluminyo,television,0.01,furniture,7,material
+16,ay hindi,dilaw,television,0.95,furniture,8,color
+16,ay,puti,kamatis,0.55,food,9,color
+16,ay,luma,kamatis,0.96,food,10,age
+16,ay,maikli,mesa,0.96,furniture,11,size
+16,ay,makinis,mansanas,0.04,food,12,texture
+16,ay,tatsulok,mansanas,0.96,food,13,shape
+16,ay hindi,matigas,mansanas,1,food,14,texture
+16,ay hindi,maganda,silya,0.96,furniture,15,quality
+16,ay hindi,sariwa,saging,0.04,food,16,age
+16,ay hindi,berde,mansanas,0.51,food,17,color
+16,ay hindi,bulok,kamatis,0.94,food,18,age
+16,ay,bilog,lampara,0.71,furniture,19,shape
+16,ay hindi,bago,lampara,0.98,furniture,20,age
+16,ay hindi,mahaba,silya,0.97,furniture,21,size
+16,ay,bakal,saging,0.97,food,22,material
+16,ay hindi,pula,television,0.93,furniture,23,color
+16,ay,cuadrado,television,0.03,furniture,24,shape
+16,ay,kahoy,keso,0.97,food,25,material
+16,ay,parihaba,television,0.93,furniture,26,shape
+16,ay,asul,kamatis,0.41,food,27,color
+16,ay,malambot,kamatis,0.88,food,28,texture
+17,ay hindi,cuadrado,silya,0.65,furniture,3,shape
+17,ay,sira,sopa,0.57,furniture,4,quality
+17,ay hindi,makinis,sopa,0.12,furniture,5,texture
+17,ay hindi,maganda,silya,0.67,furniture,6,quality
+17,ay,maikli,mesa,0.79,furniture,7,size
+17,ay,dilaw,keso,0.59,food,8,color
+17,ay,maliit,mansanas,0.75,food,9,size
+17,ay,parihaba,television,0.32,furniture,10,shape
+17,ay,malaki,karot,0.71,food,11,size
+17,ay,asul,sopa,0.46,furniture,12,color
+17,ay,matigas,mansanas,0.75,food,13,texture
+17,ay hindi,bakal,kamatis,0.33,food,14,material
+17,ay,sariwa,keso,0.64,food,15,age
+17,ay hindi,bulok,lampara,0.71,furniture,16,age
+17,ay,bago,mansanas,0.5,food,17,age
+17,ay hindi,bilog,karot,0.74,food,18,shape
+17,ay hindi,tatsulok,mesa,0.87,furniture,19,shape
+17,ay hindi,berde,sopa,0.54,furniture,20,color
+17,ay hindi,kahoy,kamatis,0.67,food,21,material
+17,ay hindi,pula,karot,0.41,food,22,color
+17,ay hindi,luma,keso,0.69,food,23,age
+17,ay hindi,puti,silya,0.41,furniture,24,color
+17,ay,itim,mesa,0.73,furniture,25,color
+17,ay,mahaba,saging,0.61,food,26,size
+17,ay,aluminyo,mansanas,0.77,food,27,material
+17,ay,malambot,television,0.51,furniture,28,texture
+18,ay,sira,keso,0.26,food,3,quality
+18,ay hindi,bago,silya,0.55,furniture,4,age
+18,ay,cuadrado,kamatis,0.66,food,5,shape
+18,ay hindi,pula,kamatis,0.78,food,6,color
+18,ay,parihaba,mansanas,0.44,food,7,shape
+18,ay,maganda,kamatis,0.7,food,8,quality
+18,ay hindi,sariwa,television,0.71,furniture,9,age
+18,ay hindi,malambot,mesa,0.31,furniture,10,texture
+18,ay,bulok,saging,0.59,food,11,age
+18,ay,bilog,lampara,0.37,furniture,12,shape
+18,ay,maliit,silya,0.98,furniture,13,size
+18,ay,kahoy,television,0.71,furniture,14,material
+18,ay,makinis,television,0.59,furniture,15,texture
+18,ay,dilaw,television,0.12,furniture,16,color
+18,ay hindi,asul,karot,0.82,food,17,color
+18,ay hindi,maikli,lampara,0.61,furniture,18,size
+18,ay,mahaba,saging,0.95,food,19,size
+18,ay,itim,silya,0.58,furniture,20,color
+18,ay hindi,puti,karot,0.66,food,21,color
+18,ay hindi,aluminyo,karot,0.39,food,22,material
+18,ay hindi,berde,television,0.67,furniture,23,color
+18,ay,malaki,keso,0.51,food,24,size
+18,ay hindi,tatsulok,kamatis,0.69,food,25,shape
+18,ay,luma,television,0.73,furniture,26,age
+18,ay,matigas,kamatis,0.7,food,27,texture
+18,ay,bakal,mansanas,0.62,food,28,material
+19,ay,puti,lampara,0.55,furniture,3,color
+19,ay hindi,asul,mesa,0.52,furniture,4,color
+19,ay hindi,bago,karot,0.52,food,5,age
+19,ay,bakal,keso,0.51,food,6,material
+19,ay hindi,makinis,keso,0.62,food,7,texture
+19,ay,dilaw,lampara,0.71,furniture,8,color
+19,ay,maliit,mesa,0.41,furniture,9,size
+19,ay,malaki,lampara,0.67,furniture,10,size
+19,ay,bilog,mansanas,0.4,food,11,shape
+19,ay hindi,maikli,mesa,0.62,furniture,12,size
+19,ay hindi,cuadrado,sopa,0.57,furniture,13,shape
+19,ay hindi,luma,mesa,0.67,furniture,14,age
+19,ay hindi,mahaba,kamatis,0.58,food,15,size
+19,ay,sira,mesa,0.59,furniture,16,quality
+19,ay,sariwa,silya,0.54,furniture,17,age
+19,ay,parihaba,lampara,0.43,furniture,18,shape
+19,ay hindi,pula,mansanas,0.5,food,19,color
+19,ay hindi,tatsulok,keso,0.52,food,20,shape
+19,ay hindi,maganda,keso,0.66,food,21,quality
+19,ay hindi,berde,saging,0.39,food,22,color
+19,ay,kahoy,silya,0.71,furniture,23,material
+19,ay,matigas,karot,0.35,food,24,texture
+19,ay hindi,aluminyo,television,0.67,furniture,25,material
+19,ay hindi,bulok,sopa,0.45,furniture,26,age
+19,ay,itim,television,0.73,furniture,27,color
+19,ay hindi,malambot,television,0.42,furniture,28,texture
+20,ay,cuadrado,lampara,0.45,furniture,3,shape
+20,ay hindi,malambot,keso,0.44,food,4,texture
+20,ay,parihaba,keso,0.55,food,5,shape
+20,ay,bulok,saging,0.36,food,6,age
+20,ay hindi,bakal,saging,0.45,food,7,material
+20,ay,mahaba,television,0.74,furniture,8,size
+20,ay,sira,sopa,0.39,furniture,9,quality
+20,ay hindi,dilaw,television,0.51,furniture,10,color
+20,ay hindi,asul,lampara,0.36,furniture,11,color
+20,ay,sariwa,karot,0.7,food,12,age
+20,ay,pula,mansanas,0.49,food,13,color
+20,ay hindi,maliit,lampara,0.54,furniture,14,size
+20,ay hindi,makinis,sopa,0.28,furniture,15,texture
+20,ay,itim,saging,0.78,food,16,color
+20,ay hindi,maganda,karot,0.43,food,17,quality
+20,ay,malaki,mansanas,0.53,food,18,size
+20,ay hindi,bago,sopa,0.25,furniture,19,age
+20,ay,kahoy,saging,0.76,food,20,material
+20,ay,maikli,kamatis,0.23,food,21,size
+20,ay,puti,sopa,0.39,furniture,22,color
+20,ay hindi,bilog,saging,0.47,food,23,shape
+20,ay,luma,saging,0.39,food,24,age
+20,ay,berde,silya,0.56,furniture,25,color
+20,ay,matigas,karot,0.45,food,26,texture
+20,ay hindi,tatsulok,saging,0.45,food,27,shape
+20,ay,aluminyo,mesa,0.44,furniture,28,material
+21,ay hindi,cuadrado,lampara,0,furniture,3,shape
+21,ay hindi,bago,kamatis,0.02,food,4,age
+21,ay hindi,makinis,saging,0.02,food,5,texture
+21,ay hindi,kahoy,keso,0.04,food,6,material
+21,ay hindi,aluminyo,keso,0.02,food,7,material
+21,ay hindi,puti,saging,0.03,food,8,color
+21,ay,maikli,silya,0.01,furniture,9,size
+21,ay,pula,keso,0.04,food,10,color
+21,ay hindi,asul,kamatis,0,food,11,color
+21,ay,bilog,keso,0.01,food,12,shape
+21,ay,parihaba,television,0.02,furniture,13,shape
+21,ay,bakal,mesa,0.02,furniture,14,material
+21,ay,malambot,mesa,0.03,furniture,15,texture
+21,ay hindi,luma,keso,0.01,food,16,age
+21,ay hindi,maganda,lampara,0.96,furniture,17,quality
+21,ay hindi,malaki,saging,0.94,food,18,size
+21,ay,sira,karot,0,food,19,quality
+21,ay hindi,matigas,saging,0.01,food,20,texture
+21,ay hindi,mahaba,karot,0.03,food,21,size
+21,ay,maliit,saging,0.03,food,22,size
+21,ay hindi,bulok,mansanas,0.01,food,23,age
+21,ay,dilaw,mesa,0,furniture,24,color
+21,ay hindi,tatsulok,mansanas,0.01,food,25,shape
+21,ay hindi,itim,television,0.02,furniture,26,color
+21,ay hindi,berde,sopa,0,furniture,27,color
+21,ay hindi,sariwa,mesa,0,furniture,28,age
+22,ay,berde,mansanas,0.21,food,3,color
+22,ay,mahaba,television,0.71,furniture,4,size
+22,ay,bakal,television,0.36,furniture,5,material
+22,ay,tatsulok,saging,0.21,food,6,shape
+22,ay hindi,pula,keso,0.68,food,7,color
+22,ay hindi,puti,kamatis,0.42,food,8,color
+22,ay hindi,bago,lampara,0.59,furniture,9,age
+22,ay hindi,malambot,silya,0.3,furniture,10,texture
+22,ay,maliit,mansanas,0.73,food,11,size
+22,ay,parihaba,saging,0.33,food,12,shape
+22,ay,kahoy,saging,0.83,food,13,material
+22,ay hindi,bulok,keso,0.6,food,14,age
+22,ay hindi,itim,karot,0.24,food,15,color
+22,ay hindi,luma,karot,0.07,food,16,age
+22,ay hindi,matigas,silya,0.42,furniture,17,texture
+22,ay hindi,cuadrado,lampara,0.74,furniture,18,shape
+22,ay,malaki,saging,0.24,food,19,size
+22,ay hindi,bilog,saging,0.46,food,20,shape
+22,ay hindi,dilaw,kamatis,0.67,food,21,color
+22,ay hindi,maikli,silya,0.21,furniture,22,size
+22,ay,makinis,lampara,0.29,furniture,23,texture
+22,ay hindi,sariwa,kamatis,0.67,food,24,age
+22,ay,asul,sopa,0.17,furniture,25,color
+22,ay hindi,aluminyo,television,0.27,furniture,26,material
+22,ay,maganda,silya,0.7,furniture,27,quality
+22,ay,sira,kamatis,0.26,food,28,quality
+23,ay,dilaw,saging,0.74,food,3,color
+23,ay hindi,matigas,kamatis,0.91,food,4,texture
+23,ay hindi,aluminyo,lampara,0.81,furniture,5,material
+23,ay hindi,bago,karot,0.9,food,6,age
+23,ay hindi,mahaba,mesa,0.85,furniture,7,size
+23,ay hindi,sira,sopa,0.65,furniture,8,quality
+23,ay,bakal,television,0.54,furniture,9,material
+23,ay hindi,pula,sopa,0.67,furniture,10,color
+23,ay hindi,berde,mansanas,0.64,food,11,color
+23,ay hindi,itim,lampara,0.84,furniture,12,color
+23,ay,maganda,saging,0.73,food,13,quality
+23,ay,makinis,mesa,0.84,furniture,14,texture
+23,ay hindi,malambot,kamatis,0.75,food,15,texture
+23,ay hindi,luma,karot,0.8,food,16,age
+23,ay,parihaba,saging,0.8,food,17,shape
+23,ay,bilog,silya,0.78,furniture,18,shape
+23,ay,puti,sopa,0.82,furniture,19,color
+23,ay hindi,asul,mesa,0.76,furniture,20,color
+23,ay,tatsulok,mansanas,0.76,food,21,shape
+23,ay hindi,bulok,silya,0.77,furniture,22,age
+23,ay,maikli,television,0.83,furniture,23,size
+23,ay hindi,maliit,mesa,0.8,furniture,24,size
+23,ay,sariwa,karot,0.84,food,25,age
+23,ay hindi,cuadrado,karot,0.78,food,26,shape
+23,ay,malaki,silya,0.76,furniture,27,size
+23,ay,kahoy,kamatis,0.83,food,28,material
+24,ay,puti,mansanas,0.63,food,3,color
+24,ay,asul,keso,0.65,food,4,color
+24,ay,bago,mesa,0.56,furniture,5,age
+24,ay,kahoy,kamatis,0.63,food,6,material
+24,ay hindi,maliit,keso,0.62,food,7,size
+24,ay hindi,itim,mesa,0.69,furniture,8,color
+24,ay,aluminyo,lampara,0.63,furniture,9,material
+24,ay hindi,tatsulok,saging,0.68,food,10,shape
+24,ay,bilog,lampara,0.67,furniture,11,shape
+24,ay,malambot,saging,0.65,food,12,texture
+24,ay hindi,maganda,karot,0.5,food,13,quality
+24,ay hindi,mahaba,silya,0.64,furniture,14,size
+24,ay hindi,luma,saging,0.73,food,15,age
+24,ay,makinis,kamatis,0.71,food,16,texture
+24,ay hindi,cuadrado,keso,0.64,food,17,shape
+24,ay hindi,bulok,lampara,0.7,furniture,18,age
+24,ay,maikli,karot,0.71,food,19,size
+24,ay,sira,mesa,0.57,furniture,20,quality
+24,ay,sariwa,saging,0.77,food,21,age
+24,ay,matigas,mesa,0.61,furniture,22,texture
+24,ay,berde,saging,0.68,food,23,color
+24,ay hindi,parihaba,kamatis,0.62,food,24,shape
+24,ay hindi,dilaw,mesa,0.68,furniture,25,color
+24,ay hindi,pula,television,0.48,furniture,26,color
+24,ay hindi,malaki,mesa,0.54,furniture,27,size
+24,ay hindi,bakal,sopa,0.62,furniture,28,material
+25,ay hindi,luma,lampara,0,furniture,3,age
+25,ay,tatsulok,lampara,0,furniture,4,shape
+25,ay hindi,dilaw,keso,1,food,5,color
+25,ay hindi,maganda,silya,1,furniture,6,quality
+25,ay,asul,mansanas,0,food,7,color
+25,ay hindi,itim,lampara,0.16,furniture,8,color
+25,ay,maikli,television,0.26,furniture,9,size
+25,ay,puti,lampara,0.15,furniture,10,color
+25,ay hindi,malambot,sopa,0.9,furniture,11,texture
+25,ay hindi,maliit,saging,0.17,food,12,size
+25,ay hindi,cuadrado,saging,0.02,food,13,shape
+25,ay,berde,karot,0.01,food,14,color
+25,ay hindi,bakal,mansanas,0.01,food,15,material
+25,ay hindi,sira,television,0.15,furniture,16,quality
+25,ay hindi,makinis,lampara,0.3,furniture,17,texture
+25,ay hindi,bilog,karot,0.21,food,18,shape
+25,ay,pula,lampara,0.05,furniture,19,color
+25,ay hindi,kahoy,kamatis,0.28,food,20,material
+25,ay,matigas,sopa,0.41,furniture,21,texture
+25,ay hindi,malaki,kamatis,0.76,food,22,size
+25,ay,bago,television,0.15,furniture,23,age
+25,ay hindi,aluminyo,television,0.11,furniture,24,material
+25,ay,mahaba,mansanas,0.01,food,25,size
+25,ay hindi,parihaba,karot,0,food,26,shape
+25,ay hindi,sariwa,lampara,0.51,furniture,27,age
+25,ay hindi,bulok,keso,0.68,food,28,age
+26,ay,puti,silya,0.67,furniture,3,color
+26,ay,kahoy,silya,0.78,furniture,4,material
+26,ay,malambot,television,0.74,furniture,5,texture
+26,ay,sariwa,karot,0.78,food,6,age
+26,ay hindi,mahaba,mansanas,0.8,food,7,size
+26,ay,dilaw,keso,0.7,food,8,color
+26,ay hindi,bago,kamatis,0.81,food,9,age
+26,ay,parihaba,lampara,0.82,furniture,10,shape
+26,ay,bakal,keso,0.6,food,11,material
+26,ay,makinis,mansanas,0.47,food,12,texture
+26,ay,asul,kamatis,0.62,food,13,color
+26,ay,itim,mansanas,0.8,food,14,color
+26,ay hindi,maliit,silya,0.52,furniture,15,size
+26,ay hindi,cuadrado,karot,0.73,food,16,shape
+26,ay hindi,maikli,television,0.47,furniture,17,size
+26,ay hindi,bulok,keso,0.72,food,18,age
+26,ay hindi,luma,mansanas,0.56,food,19,age
+26,ay hindi,matigas,mansanas,0.87,food,20,texture
+26,ay hindi,aluminyo,sopa,0.76,furniture,21,material
+26,ay,malaki,keso,0.68,food,22,size
+26,ay,tatsulok,silya,0.72,furniture,23,shape
+26,ay hindi,maganda,lampara,0.84,furniture,24,quality
+26,ay,sira,mesa,0.58,furniture,25,quality
+26,ay,bilog,mesa,0.81,furniture,26,shape
+26,ay,pula,sopa,0.62,furniture,27,color
+26,ay hindi,berde,lampara,0.81,furniture,28,color
+27,ay,sariwa,lampara,0.99,furniture,3,age
+27,ay,bilog,saging,1,food,4,shape
+27,ay,kahoy,saging,1,food,5,material
+27,ay,parihaba,mesa,1,furniture,6,shape
+27,ay,asul,saging,1,food,7,color
+27,ay hindi,malambot,mesa,1,furniture,8,texture
+27,ay,bakal,kamatis,1,food,9,material
+27,ay,puti,saging,1,food,10,color
+27,ay hindi,bulok,keso,0.99,food,11,age
+27,ay,maikli,lampara,0.88,furniture,12,size
+27,ay hindi,dilaw,television,0.8,furniture,13,color
+27,ay,berde,saging,0.85,food,14,color
+27,ay,maliit,silya,0.8,furniture,15,size
+27,ay,mahaba,kamatis,0.83,food,16,size
+27,ay hindi,aluminyo,mesa,0.87,furniture,17,material
+27,ay,itim,karot,0.86,food,18,color
+27,ay hindi,malaki,karot,0.86,food,19,size
+27,ay hindi,maganda,keso,0.85,food,20,quality
+27,ay,pula,silya,0.84,furniture,21,color
+27,ay,luma,lampara,0.86,furniture,22,age
+27,ay hindi,cuadrado,saging,0.87,food,23,shape
+27,ay,bago,lampara,0.9,furniture,24,age
+27,ay hindi,makinis,mansanas,0.88,food,25,texture
+27,ay hindi,tatsulok,karot,0.89,food,26,shape
+27,ay,sira,kamatis,0.89,food,27,quality
+27,ay,matigas,lampara,0.84,furniture,28,texture
+28,ay,dilaw,mesa,0.81,furniture,3,color
+28,ay hindi,pula,lampara,0.79,furniture,4,color
+28,ay hindi,bulok,television,0.67,furniture,5,age
+28,ay hindi,sira,silya,0.64,furniture,6,quality
+28,ay,aluminyo,lampara,0.62,furniture,7,material
+28,ay,parihaba,karot,0.68,food,8,shape
+28,ay,maikli,kamatis,0.61,food,9,size
+28,ay hindi,makinis,sopa,0.55,furniture,10,texture
+28,ay hindi,maganda,mesa,0.58,furniture,11,quality
+28,ay hindi,mahaba,karot,0.54,food,12,size
+28,ay,bakal,keso,0.62,food,13,material
+28,ay hindi,maliit,silya,0.74,furniture,14,size
+28,ay,malaki,saging,0.73,food,15,size
+28,ay,cuadrado,television,0.79,furniture,16,shape
+28,ay hindi,tatsulok,silya,0.73,furniture,17,shape
+28,ay hindi,bago,television,0.72,furniture,18,age
+28,ay hindi,asul,mansanas,0.68,food,19,color
+28,ay hindi,bilog,saging,0.74,food,20,shape
+28,ay hindi,kahoy,mansanas,0.72,food,21,material
+28,ay,luma,television,0.55,furniture,22,age
+28,ay hindi,berde,karot,0.66,food,23,color
+28,ay hindi,itim,sopa,0.45,furniture,24,color
+28,ay hindi,sariwa,mesa,0.62,furniture,25,age
+28,ay hindi,matigas,mansanas,0.69,food,26,texture
+28,ay hindi,puti,keso,0.67,food,27,color
+28,ay hindi,malambot,keso,0.65,food,28,texture
+29,ay,mahaba,karot,0.61,food,3,size
+29,ay hindi,bilog,karot,0.38,food,4,shape
+29,ay,malambot,silya,0.26,furniture,5,texture
+29,ay hindi,makinis,television,0.7,furniture,6,texture
+29,ay,berde,mansanas,0.41,food,7,color
+29,ay hindi,cuadrado,sopa,0.83,furniture,8,shape
+29,ay hindi,matigas,television,0.65,furniture,9,texture
+29,ay,pula,mesa,0.42,furniture,10,color
+29,ay,luma,lampara,0.64,furniture,11,age
+29,ay hindi,puti,saging,0.46,food,12,color
+29,ay,bago,kamatis,0.64,food,13,age
+29,ay,aluminyo,saging,0.4,food,14,material
+29,ay,bulok,keso,0.76,food,15,age
+29,ay hindi,dilaw,mesa,0.49,furniture,16,color
+29,ay hindi,bakal,keso,0.68,food,17,material
+29,ay hindi,tatsulok,lampara,0.53,furniture,18,shape
+29,ay hindi,itim,kamatis,0.5,food,19,color
+29,ay,sira,mansanas,0.51,food,20,quality
+29,ay,maliit,saging,0.31,food,21,size
+29,ay,asul,mansanas,0.64,food,22,color
+29,ay hindi,malaki,kamatis,0.43,food,23,size
+29,ay hindi,maikli,keso,0.52,food,24,size
+29,ay hindi,maganda,keso,0.68,food,25,quality
+29,ay,parihaba,karot,0.56,food,26,shape
+29,ay,kahoy,kamatis,0.68,food,27,material
+29,ay hindi,sariwa,karot,0.62,food,28,age
+30,ay hindi,kahoy,mansanas,0,food,3,material
+30,ay,maganda,mesa,1,furniture,4,quality
+30,ay,pula,karot,0,food,5,color
+30,ay,itim,kamatis,0.02,food,6,color
+30,ay hindi,berde,sopa,0,furniture,7,color
+30,ay hindi,asul,keso,0.95,food,8,color
+30,ay hindi,sira,television,0.95,furniture,9,quality
+30,ay hindi,bakal,television,1,furniture,10,material
+30,ay,luma,kamatis,1,food,11,age
+30,ay,dilaw,silya,0.04,furniture,12,color
+30,ay,sariwa,sopa,0.91,furniture,13,age
+30,ay hindi,bilog,sopa,0.02,furniture,14,shape
+30,ay,tatsulok,television,0,furniture,15,shape
+30,ay hindi,mahaba,sopa,1,furniture,16,size
+30,ay,makinis,sopa,0.79,furniture,17,texture
+30,ay,malaki,karot,1,food,18,size
+30,ay,maliit,lampara,1,furniture,19,size
+30,ay hindi,maikli,saging,0.91,food,20,size
+30,ay hindi,puti,sopa,0.14,furniture,21,color
+30,ay hindi,matigas,saging,0.83,food,22,texture
+30,ay,aluminyo,saging,0,food,23,material
+30,ay,bago,television,0.77,furniture,24,age
+30,ay,cuadrado,keso,0.7,food,25,shape
+30,ay,malambot,television,0,furniture,26,texture
+30,ay,parihaba,mansanas,0,food,27,shape
+30,ay hindi,bulok,karot,0.62,food,28,age
+31,ay hindi,tatsulok,karot,0,food,3,shape
+31,ay,bilog,karot,0,food,4,shape
+31,ay hindi,bakal,karot,0,food,5,material
+31,ay hindi,malaki,karot,1,food,6,size
+31,ay hindi,cuadrado,mansanas,0,food,7,shape
+31,ay,maliit,television,0,furniture,8,size
+31,ay,kahoy,saging,0,food,9,material
+31,ay,berde,sopa,0,furniture,10,color
+31,ay hindi,maganda,lampara,1,furniture,11,quality
+31,ay,sira,kamatis,1,food,12,quality
+31,ay hindi,dilaw,mesa,0,furniture,13,color
+31,ay,mahaba,saging,0.49,food,14,size
+31,ay hindi,aluminyo,saging,0,food,15,material
+31,ay,matigas,kamatis,1,food,16,texture
+31,ay,maikli,television,0.56,furniture,17,size
+31,ay,asul,television,0,furniture,18,color
+31,ay hindi,puti,lampara,0.52,furniture,19,color
+31,ay,sariwa,silya,0.5,furniture,20,age
+31,ay hindi,makinis,saging,0.52,food,21,texture
+31,ay hindi,bago,television,1,furniture,22,age
+31,ay hindi,itim,sopa,0,furniture,23,color
+31,ay,luma,silya,1,furniture,24,age
+31,ay,bulok,lampara,1,furniture,25,age
+31,ay hindi,parihaba,sopa,0.5,furniture,26,shape
+31,ay hindi,malambot,silya,1,furniture,27,texture
+31,ay hindi,pula,saging,0,food,28,color
+32,ay hindi,luma,kamatis,0,food,3,age
+32,ay hindi,aluminyo,silya,0,furniture,4,material
+32,ay hindi,malaki,mesa,1,furniture,5,size
+32,ay,makinis,silya,0,furniture,6,texture
+32,ay,kahoy,saging,0,food,7,material
+32,ay,asul,mansanas,0,food,8,color
+32,ay hindi,cuadrado,saging,1,food,9,shape
+32,ay,sira,saging,0,food,10,quality
+32,ay hindi,pula,karot,0,food,11,color
+32,ay hindi,malambot,television,0,furniture,12,texture
+32,ay hindi,mahaba,karot,0,food,13,size
+32,ay,tatsulok,mansanas,0,food,14,shape
+32,ay hindi,parihaba,kamatis,0,food,15,shape
+32,ay hindi,puti,saging,0,food,16,color
+32,ay hindi,bilog,sopa,0,furniture,17,shape
+32,ay hindi,maikli,silya,0.01,furniture,18,size
+32,ay,matigas,kamatis,0,food,19,texture
+32,ay hindi,bulok,mansanas,0,food,20,age
+32,ay,itim,saging,0,food,21,color
+32,ay,maliit,lampara,1,furniture,22,size
+32,ay hindi,sariwa,television,0,furniture,23,age
+32,ay,dilaw,kamatis,0,food,24,color
+32,ay hindi,berde,saging,0,food,25,color
+32,ay,maganda,keso,1,food,26,quality
+32,ay,bago,silya,1,furniture,27,age
+32,ay,bakal,silya,0,furniture,28,material
+33,ay hindi,asul,mesa,0.47,furniture,3,color
+33,ay,malambot,mesa,0.7,furniture,4,texture
+33,ay,itim,sopa,0.62,furniture,5,color
+33,ay hindi,bago,saging,0.46,food,6,age
+33,ay hindi,makinis,lampara,0.59,furniture,7,texture
+33,ay hindi,matigas,mansanas,0.7,food,8,texture
+33,ay,bulok,television,0.7,furniture,9,age
+33,ay hindi,pula,silya,0.87,furniture,10,color
+33,ay hindi,berde,lampara,0.51,furniture,11,color
+33,ay,malaki,saging,0.24,food,12,size
+33,ay hindi,sariwa,lampara,0.7,furniture,13,age
+33,ay,aluminyo,keso,0.79,food,14,material
+33,ay hindi,mahaba,keso,0.74,food,15,size
+33,ay hindi,puti,mesa,0.7,furniture,16,color
+33,ay hindi,cuadrado,mansanas,0.53,food,17,shape
+33,ay hindi,dilaw,keso,0.87,food,18,color
+33,ay hindi,maliit,sopa,0.67,furniture,19,size
+33,ay,luma,kamatis,0.39,food,20,age
+33,ay hindi,tatsulok,sopa,0.68,furniture,21,shape
+33,ay,maikli,karot,0.74,food,22,size
+33,ay hindi,maganda,karot,0.76,food,23,quality
+33,ay,bakal,kamatis,0.57,food,24,material
+33,ay hindi,parihaba,television,0.69,furniture,25,shape
+33,ay,kahoy,television,0.77,furniture,26,material
+33,ay hindi,bilog,sopa,0.71,furniture,27,shape
+33,ay,sira,kamatis,0.46,food,28,quality
+34,ay hindi,maliit,sopa,0.21,furniture,3,size
+34,ay hindi,maganda,karot,0.72,food,4,quality
+34,ay hindi,malaki,lampara,0.66,furniture,5,size
+34,ay,berde,kamatis,0.35,food,6,color
+34,ay,pula,saging,0.68,food,7,color
+34,ay,matigas,saging,0.45,food,8,texture
+34,ay hindi,aluminyo,saging,0.59,food,9,material
+34,ay,bilog,sopa,0.37,furniture,10,shape
+34,ay,tatsulok,kamatis,0.24,food,11,shape
+34,ay hindi,mahaba,sopa,0.69,furniture,12,size
+34,ay hindi,sariwa,mesa,0.31,furniture,13,age
+34,ay hindi,itim,sopa,0.52,furniture,14,color
+34,ay hindi,cuadrado,television,0.37,furniture,15,shape
+34,ay,asul,television,0.7,furniture,16,color
+34,ay,dilaw,sopa,0.24,furniture,17,color
+34,ay hindi,sira,lampara,0.01,furniture,18,quality
+34,ay hindi,bulok,keso,0.02,food,19,age
+34,ay,luma,keso,0.75,food,20,age
+34,ay,parihaba,saging,0.04,food,21,shape
+34,ay,makinis,mesa,0.03,furniture,22,texture
+34,ay,malambot,lampara,0.06,furniture,23,texture
+34,ay,maikli,kamatis,0.88,food,24,size
+34,ay hindi,puti,saging,0.02,food,25,color
+34,ay hindi,bago,lampara,0.73,furniture,26,age
+34,ay,kahoy,mansanas,0.03,food,27,material
+34,ay,bakal,karot,0.56,food,28,material
+35,ay,maikli,keso,0.68,food,3,size
+35,ay hindi,bulok,silya,0.77,furniture,4,age
+35,ay hindi,itim,sopa,0.77,furniture,5,color
+35,ay hindi,puti,saging,0.72,food,6,color
+35,ay hindi,dilaw,silya,0.73,furniture,7,color
+35,ay hindi,pula,keso,0.55,food,8,color
+35,ay hindi,maganda,mansanas,0.68,food,9,quality
+35,ay hindi,maliit,mesa,0.71,furniture,10,size
+35,ay,malaki,kamatis,0.71,food,11,size
+35,ay hindi,kahoy,keso,0.71,food,12,material
+35,ay hindi,sariwa,keso,0.63,food,13,age
+35,ay,matigas,sopa,0.68,furniture,14,texture
+35,ay hindi,sira,keso,0.78,food,15,quality
+35,ay hindi,bakal,silya,0.89,furniture,16,material
+35,ay hindi,asul,kamatis,0.65,food,17,color
+35,ay hindi,tatsulok,karot,0.71,food,18,shape
+35,ay hindi,cuadrado,keso,0.76,food,19,shape
+35,ay,malambot,silya,0.76,furniture,20,texture
+35,ay,parihaba,saging,0.8,food,21,shape
+35,ay hindi,bago,mesa,0.78,furniture,22,age
+35,ay hindi,luma,karot,0.83,food,23,age
+35,ay,bilog,sopa,0.86,furniture,24,shape
+35,ay,mahaba,mesa,0.84,furniture,25,size
+35,ay,berde,keso,0.83,food,26,color
+35,ay,aluminyo,kamatis,0.78,food,27,material
+35,ay,makinis,saging,0.79,food,28,texture
+36,ay hindi,makinis,silya,0.81,furniture,3,texture
+36,ay,maliit,saging,0.81,food,4,size
+36,ay hindi,bakal,sopa,0.83,furniture,5,material
+36,ay,sariwa,silya,0.82,furniture,6,age
+36,ay,parihaba,mansanas,0.84,food,7,shape
+36,ay,bulok,sopa,0.81,furniture,8,age
+36,ay,tatsulok,mesa,0.78,furniture,9,shape
+36,ay hindi,puti,lampara,0.8,furniture,10,color
+36,ay hindi,malambot,kamatis,0.82,food,11,texture
+36,ay,pula,silya,0.81,furniture,12,color
+36,ay hindi,bago,mesa,0.82,furniture,13,age
+36,ay,luma,lampara,0.83,furniture,14,age
+36,ay,maikli,karot,0.83,food,15,size
+36,ay,itim,kamatis,0.77,food,16,color
+36,ay,cuadrado,keso,0.76,food,17,shape
+36,ay hindi,dilaw,mansanas,0.23,food,18,color
+36,ay hindi,mahaba,karot,0.64,food,19,size
+36,ay,malaki,silya,0.69,furniture,20,size
+36,ay,matigas,mansanas,0.68,food,21,texture
+36,ay hindi,kahoy,television,0.68,furniture,22,material
+36,ay,maganda,mesa,0.69,furniture,23,quality
+36,ay,sira,television,0.68,furniture,24,quality
+36,ay hindi,asul,mesa,0.68,furniture,25,color
+36,ay,aluminyo,kamatis,0.71,food,26,material
+36,ay,berde,silya,0.71,furniture,27,color
+36,ay,bilog,keso,0.71,food,28,shape
+37,ay,mahaba,television,0.57,furniture,3,size
+37,ay,cuadrado,karot,0.38,food,4,shape
+37,ay,tatsulok,mesa,0.56,furniture,5,shape
+37,ay,bulok,mansanas,0.33,food,6,age
+37,ay hindi,maganda,kamatis,0.66,food,7,quality
+37,ay hindi,kahoy,mansanas,0.5,food,8,material
+37,ay hindi,malambot,mesa,0.42,furniture,9,texture
+37,ay hindi,berde,saging,0.64,food,10,color
+37,ay hindi,maliit,television,0.33,furniture,11,size
+37,ay hindi,sira,silya,0.53,furniture,12,quality
+37,ay hindi,puti,karot,0.53,food,13,color
+37,ay hindi,bilog,television,0.35,furniture,14,shape
+37,ay hindi,dilaw,silya,0.65,furniture,15,color
+37,ay,parihaba,silya,0.5,furniture,16,shape
+37,ay hindi,makinis,silya,0.63,furniture,17,texture
+37,ay,matigas,kamatis,0.51,food,18,texture
+37,ay hindi,maikli,saging,0.74,food,19,size
+37,ay,itim,keso,0.87,food,20,color
+37,ay hindi,asul,lampara,0.68,furniture,21,color
+37,ay,bago,mesa,0.34,furniture,22,age
+37,ay,sariwa,saging,0.63,food,23,age
+37,ay,bakal,television,0.3,furniture,24,material
+37,ay,pula,karot,0.25,food,25,color
+37,ay hindi,malaki,keso,0.28,food,26,size
+37,ay hindi,luma,mesa,0.51,furniture,27,age
+37,ay,aluminyo,mesa,0.44,furniture,28,material
+38,ay,matigas,mesa,0.5,furniture,3,texture
+38,ay,kahoy,mesa,0,furniture,4,material
+38,ay,malambot,silya,0.79,furniture,5,texture
+38,ay hindi,puti,silya,0,furniture,6,color
+38,ay hindi,pula,television,0,furniture,7,color
+38,ay hindi,bakal,karot,0.21,food,8,material
+38,ay,sira,saging,0,food,9,quality
+38,ay,aluminyo,saging,0,food,10,material
+38,ay,maikli,mesa,1,furniture,11,size
+38,ay,bilog,karot,0,food,12,shape
+38,ay,mahaba,lampara,1,furniture,13,size
+38,ay,parihaba,mansanas,0,food,14,shape
+38,ay,maliit,karot,1,food,15,size
+38,ay hindi,tatsulok,sopa,1,furniture,16,shape
+38,ay hindi,maganda,lampara,0.2,furniture,17,quality
+38,ay,bago,lampara,0,furniture,18,age
+38,ay,sariwa,mansanas,0,food,19,age
+38,ay,asul,silya,0,furniture,20,color
+38,ay,berde,keso,0,food,21,color
+38,ay,bulok,saging,0.48,food,22,age
+38,ay hindi,makinis,karot,0.49,food,23,texture
+38,ay hindi,malaki,silya,1,furniture,24,size
+38,ay hindi,cuadrado,lampara,0,furniture,25,shape
+38,ay,dilaw,mansanas,0,food,26,color
+38,ay hindi,luma,television,0,furniture,27,age
+38,ay hindi,itim,mansanas,0,food,28,color
+39,ay,cuadrado,kamatis,0.57,food,3,shape
+39,ay,pula,lampara,0.55,furniture,4,color
+39,ay,maikli,mesa,0.85,furniture,5,size
+39,ay,bago,lampara,0.39,furniture,6,age
+39,ay,malambot,mansanas,0.58,food,7,texture
+39,ay,sariwa,keso,0.6,food,8,age
+39,ay hindi,berde,mesa,0.26,furniture,9,color
+39,ay hindi,matigas,saging,0.77,food,10,texture
+39,ay,mahaba,karot,0.49,food,11,size
+39,ay hindi,malaki,saging,0.79,food,12,size
+39,ay hindi,luma,saging,0.53,food,13,age
+39,ay,kahoy,keso,0.71,food,14,material
+39,ay hindi,puti,kamatis,0.48,food,15,color
+39,ay hindi,parihaba,lampara,0.62,furniture,16,shape
+39,ay hindi,tatsulok,mesa,0.68,furniture,17,shape
+39,ay,makinis,mansanas,0.65,food,18,texture
+39,ay,asul,kamatis,0.52,food,19,color
+39,ay hindi,bakal,kamatis,0.78,food,20,material
+39,ay hindi,maliit,saging,0.48,food,21,size
+39,ay,maganda,silya,0.69,furniture,22,quality
+39,ay hindi,aluminyo,sopa,0.73,furniture,23,material
+39,ay,sira,lampara,0.59,furniture,24,quality
+39,ay,itim,sopa,0.83,furniture,25,color
+39,ay,bulok,karot,0.67,food,26,age
+39,ay hindi,dilaw,lampara,0.77,furniture,27,color
+39,ay,bilog,television,0.68,furniture,28,shape
+40,ay,malaki,saging,0.47,food,3,size
+40,ay hindi,matigas,keso,0.57,food,4,texture
+40,ay,cuadrado,lampara,0.43,furniture,5,shape
+40,ay,sariwa,silya,0.66,furniture,6,age
+40,ay,maliit,kamatis,0.56,food,7,size
+40,ay,bulok,mansanas,0.77,food,8,age
+40,ay hindi,mahaba,mesa,0.59,furniture,9,size
+40,ay hindi,sira,television,0.76,furniture,10,quality
+40,ay hindi,dilaw,mansanas,0.34,food,11,color
+40,ay,pula,television,0.4,furniture,12,color
+40,ay,bago,sopa,0.26,furniture,13,age
+40,ay,tatsulok,karot,0.21,food,14,shape
+40,ay hindi,berde,kamatis,0.51,food,15,color
+40,ay hindi,kahoy,mesa,0.31,furniture,16,material
+40,ay,malambot,sopa,0.41,furniture,17,texture
+40,ay hindi,makinis,mesa,0.42,furniture,18,texture
+40,ay,luma,television,0.47,furniture,19,age
+40,ay,bilog,television,0.34,furniture,20,shape
+40,ay hindi,aluminyo,mansanas,0.71,food,21,material
+40,ay hindi,bakal,mansanas,0.15,food,22,material
+40,ay hindi,maganda,saging,0.67,food,23,quality
+40,ay hindi,maikli,karot,0.04,food,24,size
+40,ay hindi,itim,television,0.28,furniture,25,color
+40,ay,parihaba,karot,0.8,food,26,shape
+40,ay,asul,sopa,0.44,furniture,27,color
+40,ay hindi,puti,television,0.53,furniture,28,color
+41,ay,puti,mansanas,0.78,food,3,color
+41,ay,maganda,karot,0.79,food,4,quality
+41,ay,bakal,karot,0.75,food,5,material
+41,ay,berde,saging,0.74,food,6,color
+41,ay,bago,kamatis,0.75,food,7,age
+41,ay hindi,malaki,mansanas,0.86,food,8,size
+41,ay,sariwa,keso,0.77,food,9,age
+41,ay hindi,itim,saging,0.79,food,10,color
+41,ay,kahoy,television,0.8,furniture,11,material
+41,ay,bilog,television,0.87,furniture,12,shape
+41,ay,bulok,kamatis,0.83,food,13,age
+41,ay hindi,sira,kamatis,0.77,food,14,quality
+41,ay,dilaw,kamatis,0.89,food,15,color
+41,ay hindi,cuadrado,mesa,0.84,furniture,16,shape
+41,ay,asul,sopa,0.82,furniture,17,color
+41,ay hindi,makinis,sopa,0.85,furniture,18,texture
+41,ay,maliit,saging,0.9,food,19,size
+41,ay,mahaba,mesa,0.86,furniture,20,size
+41,ay hindi,luma,lampara,0.86,furniture,21,age
+41,ay hindi,tatsulok,silya,0.86,furniture,22,shape
+41,ay hindi,maikli,mansanas,0.86,food,23,size
+41,ay,pula,silya,0.83,furniture,24,color
+41,ay hindi,aluminyo,mesa,0.85,furniture,25,material
+41,ay hindi,malambot,lampara,0.89,furniture,26,texture
+41,ay hindi,matigas,mansanas,0.85,food,27,texture
+41,ay,parihaba,mesa,0.94,furniture,28,shape
+42,ay,bulok,lampara,0.69,furniture,3,age
+42,ay hindi,bakal,lampara,0.31,furniture,4,material
+42,ay,berde,mansanas,0.56,food,5,color
+42,ay,malaki,silya,0.52,furniture,6,size
+42,ay hindi,pula,television,0.48,furniture,7,color
+42,ay hindi,asul,karot,0.63,food,8,color
+42,ay hindi,tatsulok,mesa,0.4,furniture,9,shape
+42,ay hindi,luma,sopa,0.56,furniture,10,age
+42,ay hindi,maganda,kamatis,0.47,food,11,quality
+42,ay hindi,bilog,mansanas,0.52,food,12,shape
+42,ay,mahaba,silya,0.44,furniture,13,size
+42,ay,itim,saging,0.44,food,14,color
+42,ay,malambot,mansanas,0.44,food,15,texture
+42,ay hindi,aluminyo,lampara,0.58,furniture,16,material
+42,ay,bago,television,0.36,furniture,17,age
+42,ay hindi,sira,sopa,0.4,furniture,18,quality
+42,ay hindi,parihaba,keso,0.52,food,19,shape
+42,ay hindi,dilaw,silya,0.27,furniture,20,color
+42,ay hindi,cuadrado,karot,0.58,food,21,shape
+42,ay hindi,sariwa,saging,0.44,food,22,age
+42,ay hindi,maikli,lampara,0.56,furniture,23,size
+42,ay,makinis,sopa,0.66,furniture,24,texture
+42,ay,maliit,lampara,0.4,furniture,25,size
+42,ay,kahoy,lampara,0.69,furniture,26,material
+42,ay,puti,kamatis,0.61,food,27,color
+42,ay,matigas,mansanas,0.52,food,28,texture
+43,ay hindi,maganda,karot,0.52,food,3,quality
+43,ay,sira,karot,0.5,food,4,quality
+43,ay hindi,malaki,silya,0.49,furniture,5,size
+43,ay,bilog,mansanas,0.88,food,6,shape
+43,ay,kahoy,silya,0.55,furniture,7,material
+43,ay hindi,mahaba,mansanas,0.71,food,8,size
+43,ay hindi,berde,mesa,0.5,furniture,9,color
+43,ay,maikli,sopa,0.43,furniture,10,size
+43,ay,sariwa,karot,0.64,food,11,age
+43,ay hindi,matigas,sopa,0.64,furniture,12,texture
+43,ay hindi,luma,kamatis,0.69,food,13,age
+43,ay,pula,silya,0.61,furniture,14,color
+43,ay hindi,bago,sopa,0.59,furniture,15,age
+43,ay hindi,maliit,saging,0.41,food,16,size
+43,ay hindi,parihaba,keso,0.59,food,17,shape
+43,ay,puti,karot,0.47,food,18,color
+43,ay hindi,aluminyo,lampara,0.67,furniture,19,material
+43,ay,malambot,television,0.49,furniture,20,texture
+43,ay,cuadrado,television,0.68,furniture,21,shape
+43,ay,tatsulok,mesa,0.69,furniture,22,shape
+43,ay hindi,bakal,sopa,0.58,furniture,23,material
+43,ay hindi,bulok,sopa,0.59,furniture,24,age
+43,ay hindi,asul,television,0.61,furniture,25,color
+43,ay hindi,makinis,mansanas,0.52,food,26,texture
+43,ay hindi,itim,silya,0.56,furniture,27,color
+43,ay hindi,dilaw,saging,0.45,food,28,color
+44,ay,luma,mansanas,0.93,food,3,age
+44,ay hindi,malambot,television,0.3,furniture,4,texture
+44,ay hindi,aluminyo,saging,0.88,food,5,material
+44,ay,sira,lampara,1,furniture,6,quality
+44,ay,maganda,keso,0,food,7,quality
+44,ay hindi,itim,silya,1,furniture,8,color
+44,ay,bulok,silya,0.83,furniture,9,age
+44,ay hindi,maikli,silya,1,furniture,10,size
+44,ay,matigas,mansanas,0,food,11,texture
+44,ay hindi,pula,mansanas,0,food,12,color
+44,ay,maliit,mansanas,0,food,13,size
+44,ay,puti,saging,1,food,14,color
+44,ay hindi,kahoy,mesa,1,furniture,15,material
+44,ay hindi,bago,sopa,1,furniture,16,age
+44,ay hindi,cuadrado,lampara,0,furniture,17,shape
+44,ay hindi,parihaba,kamatis,1,food,18,shape
+44,ay hindi,dilaw,sopa,0,furniture,19,color
+44,ay hindi,tatsulok,mesa,1,furniture,20,shape
+44,ay hindi,makinis,lampara,1,furniture,21,texture
+44,ay hindi,bakal,lampara,1,furniture,22,material
+44,ay,berde,lampara,0.1,furniture,23,color
+44,ay,bilog,keso,0,food,24,shape
+44,ay hindi,malaki,silya,1,furniture,25,size
+44,ay hindi,mahaba,saging,0,food,26,size
+44,ay,sariwa,mansanas,1,food,27,age
+44,ay,asul,mesa,1,furniture,28,color
