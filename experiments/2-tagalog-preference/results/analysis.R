@@ -2,10 +2,19 @@ library(hydroGOF)
 library(dplyr)
 #library(tidyr)
 
-setwd("~/Documents/git/tagalog_adjectives/experiments/2-tagalog-preference/Submiterator-master")
+#setwd("~/Documents/git/tagalog_adjectives/experiments/2-tagalog-preference/Submiterator-master")
 setwd("~/git/tagalog_adjectives/experiments/2-tagalog-preference/Submiterator-master")
 
 source("../results/helpers.r")
+
+# Bootstrap 95% CI for R-Squared
+library(boot)
+# function to obtain R-Squared from the data 
+rsq <- function(formula, data, indices) {
+  d <- data[indices,] # allows boot to select sample 
+  fit <- lm(formula, data=d)
+  return(summary(fit)$r.square)
+} 
 
 num_round_dirs = 10
 df = do.call(rbind, lapply(1:num_round_dirs, function(i) {
@@ -23,6 +32,8 @@ unique(d$language)
 t = d[d$language=="Tagalog"|d$language=="tagalog"|d$language=="Bisaya"|d$language=="filipino"|d$language=="Filipino"|d$language=="bisaya"|d$language=="TAGALOG"|d$language=="FILIPINO"|d$language=="Kapampagan"|d$language=="Wikang Pilipino",]
 
 t$response = as.numeric(as.character(t$response))
+
+t$age = as.numeric(as.character(t$age))
 
 summary(t)
 
@@ -79,6 +90,10 @@ f = read.csv("../../3-faultless-disagreement/results/pred-subjectivity.csv",head
 adj_agr$subjectivity = f$response[match(adj_agr$predicate,f$predicate)]
 
 gof(adj_agr$correctresponse,adj_agr$subjectivity)
+# r = 0.73, r2 = 0.54
+results <- boot(data=adj_agr, statistic=rsq, R=10000, formula=correctresponse~subjectivity)
+boot.ci(results, type="bca") 
+# 95%   ( 0.2224,  0.7323 ) 
 
 ggplot(adj_agr, aes(x=subjectivity,y=correctresponse)) +
   geom_point() +
