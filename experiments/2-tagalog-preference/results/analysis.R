@@ -72,15 +72,17 @@ class_agr = aggregate(correctresponse~correctclass,FUN=mean,data=agr)
 class_s = bootsSummary(data=agr, measurevar="correctresponse", groupvars=c("correctclass"))
 
 ggplot(data=class_s,aes(x=reorder(correctclass,-correctresponse,mean),y=correctresponse))+
-  geom_bar(stat="identity")+
-  geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(correctclass,-correctresponse,mean), width=0.1),alpha=0.5)+
+  geom_bar(stat="identity",fill="lightgray",color="black")+
+  geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(correctclass,-correctresponse,mean), width=0.1))+
+  geom_hline(yintercept=0.5,linetype="dashed") + 
   xlab("\nadjective class")+
-  ylab("distance from noun\n")+
+  ylab("preferred\ndistance from noun\n")+
   ylim(0,1)+
   #labs("order\npreference")+
   theme_bw()#+
   #theme(axis.text.x=element_text(angle=90,vjust=0.35,hjust=1))
 #ggsave("../results/class_distance.pdf",height=3)
+#ggsave("../results/LSA_class_distance.png",height=2,width=4.3)
 
 
 #### comparison with faultless disgareement
@@ -98,9 +100,11 @@ boot.ci(results, type="bca")
 ggplot(adj_agr, aes(x=subjectivity,y=correctresponse)) +
   geom_point() +
   #geom_smooth()+
-  stat_smooth(method="lm")+
-  geom_text(aes(label=predicate),size=2.5,vjust=1.5)+
-  ylab("naturalness\n")+
-  xlab("\nsubjectivity")+
+  stat_smooth(method="lm",color="black")+
+  #geom_text(aes(label=predicate),size=2.5,vjust=1.5)+
+  ylab("preferred\ndistance from noun\n")+
+  xlab("\nsubjectivity score")+
+  #ylim(0,1)+
   theme_bw()
 #ggsave("../results/naturalness-subjectivity.pdf",height=3,width=4)
+#ggsave("../results/LSA-naturalness-subjectivity.png",height=2,width=3)
