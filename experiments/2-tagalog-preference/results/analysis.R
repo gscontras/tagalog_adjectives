@@ -22,7 +22,7 @@ df = do.call(rbind, lapply(1:num_round_dirs, function(i) {
     'round', i, '/tagalog-preference.csv', sep=''),stringsAsFactors=FALSE) %>% 
       mutate(workerid = (workerid + (i-1)*9)))}))
 
-d = subset(df, select=c("workerid","noun","nounclass","slide_number", "predicate1", "predicate2", "class1","class2","response","language","born","age","assess","agemove","live","dialects","education"))
+d = subset(df, select=c("workerid","noun","nounclass","slide_number", "predicate1", "predicate2", "class1","class2","response","language","born","age","assess","agemove","live","dialects","education","gender"))
 
 # re-factorize
 d[] <- lapply( d, factor) 
@@ -34,6 +34,8 @@ t = d[d$language=="Tagalog"|d$language=="tagalog"|d$language=="Bisaya"|d$languag
 t$response = as.numeric(as.character(t$response))
 
 t$age = as.numeric(as.character(t$age))
+
+length(unique(t$workerid))
 
 summary(t)
 

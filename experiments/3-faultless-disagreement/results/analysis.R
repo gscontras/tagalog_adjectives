@@ -14,7 +14,7 @@ df = do.call(rbind, lapply(1:num_round_dirs, function(i) {
     'round', i, '/faultless-disagreement.csv', sep=''),stringsAsFactors=FALSE) %>% 
       mutate(workerid = (workerid + (i-1)*9)))}))
 
-d = subset(df, select=c("workerid","firstutterance","noun","nounclass","slide_number", "predicate",  "class","response","language","born","age","assess","agemove","live","dialects","education"))
+d = subset(df, select=c("workerid","firstutterance","noun","nounclass","slide_number", "predicate",  "class","response","language","born","age","assess","agemove","live","dialects","education","gender"))
 
 t = d[d$language=="Tagalog"|d$language=="tagalog"|d$language=="Bisaya"|d$language=="filipino"|d$language=="Filipino"|d$language=="bisaya"|d$language=="TAGALOG"|d$language=="FILIPINO"|d$language=="Kapampagan"|d$language=="Wikang Pilipino"|d$language=="Cebuano"|d$language=="Tagalog ",]
 
