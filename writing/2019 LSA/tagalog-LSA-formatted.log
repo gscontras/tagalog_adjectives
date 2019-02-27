@@ -1,0 +1,722 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=latex 2016.5.22)  26 FEB 2019 10:24
+entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ %&-line parsing enabled.
+**tagalog-LSA-formatted.tex
+(./tagalog-LSA-formatted.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/Users/greg/Library/texmf/tex/latex/linguex.sty
+Package: linguex 2013/05/28 Example formatting for linguistics v. 4.3
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/Users/greg/Library/texmf/tex/latex/cgloss4e.sty
+\lineone=\box26
+\linetwo=\box27
+\linethree=\box28
+\wordone=\box29
+\wordtwo=\box30
+\wordthree=\box31
+\gline=\box32
+\glossglue=\skip43
+)
+\c@ExNo=\count87
+\c@SubExNo=\count88
+\c@SubSubExNo=\count89
+\c@FnExNo=\count90
+\c@ABC=\count91
+\currentlabel=\skip44
+\lessthanten=\skip45
+\lessthanhundred=\skip46
+\lessthanthousand=\skip47
+\@Exleftmargin=\skip48
+\Exlabelwidth=\skip49
+\Extopsep=\skip50
+\Exindent=\skip51
+\SubExleftmargin=\skip52
+\SubSubExleftmargin=\skip53
+\Exlabelsep=\skip54
+\alignSubExnegindent=\skip55
+\Exredux=\skip56
+\digitwidth=\skip57
+\mindigitwidth=\skip58
+\c@ExDepth=\count92
+\c@TempExDepth=\count93
+\CollectTokens=\toks14
+LaTeX Info: Redefining \b on input line 307.
+LaTeX Info: Redefining \c on input line 311.
+LaTeX Info: Redefining \d on input line 313.
+\c@tmpaEx=\count94
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip59
+\bibsep=\skip60
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count95
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count96
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip61
+\RaggedLeftLeftskip=\skip62
+\RaggedRightLeftskip=\skip63
+\CenteringRightskip=\skip64
+\RaggedLeftRightskip=\skip65
+\RaggedRightRightskip=\skip66
+\CenteringParfillskip=\skip67
+\RaggedLeftParfillskip=\skip68
+\RaggedRightParfillskip=\skip69
+\JustifyingParfillskip=\skip70
+\CenteringParindent=\skip71
+\RaggedLeftParindent=\skip72
+\RaggedRightParindent=\skip73
+\JustifyingParindent=\skip74
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/Users/greg/Library/texmf/tex/latex/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen105
+\lightrulewidth=\dimen106
+\cmidrulewidth=\dimen107
+\belowrulesep=\dimen108
+\belowbottomsep=\dimen109
+\aboverulesep=\dimen110
+\abovetopsep=\dimen111
+\cmidrulesep=\dimen112
+\cmidrulekern=\dimen113
+\defaultaddspace=\dimen114
+\@cmidla=\count97
+\@cmidlb=\count98
+\@aboverulesep=\dimen115
+\@belowrulesep=\dimen116
+\@thisruleclass=\count99
+\@lastruleclass=\count100
+\@thisrulewidth=\dimen117
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Users/greg/Library/texmf/tex/latex/qtree.sty
+Package: 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+Package: qtree 2008/12/12 v.3.1bQtree: tree-drawing for linguistics
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: dvips.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-dvips.def on input line 121.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pict2e/p2e-dvips.def
+File: p2e-dvips.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks17
+\@arclen=\dimen118
+\@arcrad=\dimen119
+\@tempdimd=\dimen120
+)
+\c@treecount=\count101
+\c@branchcount=\count102
+\parentbox=\box33
+\treebox=\box34
+\treeboxone=\box35
+\treeboxtwo=\box36
+\treeboxthree=\box37
+\treeboxfour=\box38
+\treeboxfive=\box39
+\treeboxsix=\box40
+\treeboxseven=\box41
+\treeboxeight=\box42
+\treeboxnine=\box43
+\treeboxten=\box44
+\treeboxeleven=\box45
+\treeboxtwelve=\box46
+\treeboxthirteen=\box47
+\treeboxfourteen=\box48
+\treeboxfifteen=\box49
+\treeboxsixteen=\box50
+\treeboxseventeen=\box51
+\treeboxeighteen=\box52
+\treeboxnineteen=\box53
+\treeboxtwenty=\box54
+\treeoffsetone=\skip75
+\treeoffsettwo=\skip76
+\treeoffsetthree=\skip77
+\treeoffsetfour=\skip78
+\treeoffsetfive=\skip79
+\treeoffsetsix=\skip80
+\treeoffsetseven=\skip81
+\treeoffseteight=\skip82
+\treeoffsetnine=\skip83
+\treeoffsetten=\skip84
+\treeoffseteleven=\skip85
+\treeoffsettwelve=\skip86
+\treeoffsetthirteen=\skip87
+\treeoffsetfourteen=\skip88
+\treeoffsetfifteen=\skip89
+\treeoffsetsixteen=\skip90
+\treeoffsetseventeen=\skip91
+\treeoffseteighteen=\skip92
+\treeoffsetnineteen=\skip93
+\treeoffsettwenty=\skip94
+\treeshiftone=\skip95
+\treeshifttwo=\skip96
+\treeshiftthree=\skip97
+\treeshiftfour=\skip98
+\treeshiftfive=\skip99
+\treeshiftsix=\skip100
+\treeshiftseven=\skip101
+\treeshifteight=\skip102
+\treeshiftnine=\skip103
+\treeshiftten=\skip104
+\treeshifteleven=\skip105
+\treeshifttwelve=\skip106
+\treeshiftthirteen=\skip107
+\treeshiftfourteen=\skip108
+\treeshiftfifteen=\skip109
+\treeshiftsixteen=\skip110
+\treeshiftseventeen=\skip111
+\treeshifteighteen=\skip112
+\treeshiftnineteen=\skip113
+\treeshifttwenty=\skip114
+\treewidthone=\skip115
+\treewidthtwo=\skip116
+\treewidththree=\skip117
+\treewidthfour=\skip118
+\treewidthfive=\skip119
+\treewidthsix=\skip120
+\treewidthseven=\skip121
+\treewidtheight=\skip122
+\treewidthnine=\skip123
+\treewidthten=\skip124
+\treewidtheleven=\skip125
+\treewidthtwelve=\skip126
+\treewidththirteen=\skip127
+\treewidthfourteen=\skip128
+\treewidthfifteen=\skip129
+\treewidthsixteen=\skip130
+\treewidthseventeen=\skip131
+\treewidtheighteen=\skip132
+\treewidthnineteen=\skip133
+\treewidthtwenty=\skip134
+\daughteroffsetone=\skip135
+\daughteroffsettwo=\skip136
+\daughteroffsetthree=\skip137
+\daughteroffsetfour=\skip138
+\branchwidthone=\skip139
+\branchwidthtwo=\skip140
+\branchwidththree=\skip141
+\branchwidthfour=\skip142
+\parentoffset=\skip143
+\treeoffset=\skip144
+\daughteroffset=\skip145
+\branchwidth=\skip146
+\parentwidth=\skip147
+\treewidth=\skip148
+\qta=\toks18
+\qtb=\toks19
+\nbranches=\count103
+\qroofx=\count104
+\qroofy=\count105
+\@qrscratchbox=\box55
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip149
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box56
+\beforetitleunit=\skip150
+\aftertitleunit=\skip151
+\ttl@plus=\dimen121
+\ttl@minus=\dimen122
+\ttl@toksa=\toks20
+\titlewidth=\dimen123
+\titlewidthlast=\dimen124
+\titlewidthfirst=\dimen125
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/05/09 v1.1c Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvips.def on input line 144.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen126
+\Hy@linkcounter=\count106
+\Hy@pagecounter=\count107
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count108
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4322.
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count109
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5044.
+\XeTeXLinkMargin=\dimen127
+\Fld@menulength=\count110
+\Field@Width=\dimen128
+\Fld@charsize=\dimen129
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring ON on input line 6316.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count111
+\c@Item=\count112
+\c@Hfootnote=\count113
+)
+
+Package hyperref Message: Driver (default): hdvips.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2016/05/05 v6.83n Hyperref driver for dvips
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2016/05/05 v6.83n Hyperref definitions for pdfmark specials
+\pdf@docset=\toks21
+\pdf@box=\box57
+\pdf@toks=\toks22
+\pdf@defaulttoks=\toks23
+\HyField@AnnotCount=\count114
+\Fld@listcount=\count115
+\c@bookmark@seq@number=\count116
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip152
+))
+(./tagalog-LSA-formatted.aux)
+\openout1 = `tagalog-LSA-formatted.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
+LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 89.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 89.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring ON on input line 89.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count117
+)
+LaTeX Info: Redefining \ref on input line 89.
+LaTeX Info: Redefining \pageref on input line 89.
+LaTeX Info: Redefining \nameref on input line 89.
+
+(./tagalog-LSA-formatted.out) (./tagalog-LSA-formatted.out)
+\@outlinefile=\write3
+\openout3 = `tagalog-LSA-formatted.out'.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 98.
+LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 98.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[][]\OT1/ptm/m/n/10 We grate-fully ac-knowl-edge the sup-port of the Lin-guis-t
+ic So-ci-ety of Amer-ica's Com-mit-tee on Eth-nic Di-ver-sity in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 Lin-guis-tics, who awarded a travel grant to Sut-tera Sa-monte 
+so that she could present this work at the an-nual meet-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+\OT1/ptm/m/n/10 in New York. Au-thors: Sut-tera Sa-monte, Uni-ver-sity of Cal-i
+-for-nia, Irvine ([][][][][][]), Gre-gory
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ [][]\OT1/ptm/b/n/12 Abstract. \OT1/ptm/m/n/12 Pre-vi-ous stud-ies have shown t
+hat speak-ers have ro-bust ad-jec-tive or-der-ing 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 pref-er-ences. For ex-am-ple, in En-glish, \OT1/ptm/m/it/12 bi
+g red ap-ple \OT1/ptm/m/n/12 is strongly pre-ferred to \OT1/ptm/m/it/12 red big
+ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/it/12 ap-ple\OT1/ptm/m/n/12 . Re-cently, [] ([]) showed that an ad-
+jec-tive's dis-tance from 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 the noun it mod-i-fies is best pre-dicted by the ad-jec-tive's
+ sub-jec-tiv-ity, with less sub- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 jec-tive ad-jec-tives pre-ferred closer to the mod-i-fied noun
+. How-ever, this find-ing was 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 lim-ited to En-glish. The cur-rent study in-ves-ti-gates the s
+ta-tus of subjectivity-based 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 ad-jec-tive or-der-ing pref-er-ence in Taga-log, a lan-guage t
+hat forms its mod-i-fi-ca-tion 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 struc-tures with the conjunction-like \OT1/ptm/m/sc/12 linker 
+\OT1/ptm/m/n/12 par-ti-cle. Us-ing Taga-log trans-la-tions of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+ \OT1/ptm/m/n/12 the orig-i-nal En-glish ma-te-ri-als, we show that sub-jec-tiv
+-ity pre-dicts or-der-ing pref-er- 
+ []
+
+[1
+
+] [2]
+Overfull \hbox (5.39719pt too wide) in paragraph at lines 144--145
+\OT1/ptm/m/n/12 trait of some ob-ject (e.g., whether some ap-ple was red). Par-
+tic-i-pants judged whether both speak- 
+ []
+
+
+Overfull \hbox (16.83049pt too wide) in paragraph at lines 148--149
+\OT1/ptm/m/n/12 ing ex-pla-na-tions for why sub-jec-tiv-ity should play the rol
+e it does in ad-jec-tive or-der-ing ([] 
+ []
+
+[3]
+Overfull \hbox (1.05533pt too wide) in paragraph at lines 188--189
+\OT1/ptm/m/n/12 dis-tri-bu-tion, [] con-clude that \OT1/ptm/m/sc/12 linker \OT1
+/ptm/m/n/12 sur-faces in the con-text of non-saturating 
+ []
+
+[4]
+Overfull \hbox (6.00255pt too wide) in paragraph at lines 215--216
+\OT1/ptm/m/n/12 log or-der-ing pref-er-ences, we repli-cated \OT1/ptm/m/it/12 E
+xpt. 1: Or-der-ing pref-er-ences \OT1/ptm/m/n/12 from [] ([]) 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[][]\OT1/ptm/m/n/12 Table 2: [][][][][]  Taga-log ad-jec-tives and nouns used i
+n Ex-per-i-ment 1 and Ex-per-i-ment 2. Words in ital-ics
+ []
+
+File: exp1-trial.eps Graphic file (type eps)
+<exp1-trial.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[][]\OT1/ptm/m/n/12 Figure 1: [][][][][]  Sam-ple trial from Ex-per-i-ment 1. P
+ar-tic-i-pants in-di-cated the pre-ferred rel-a-tive or-der of
+ []
+
+[6]
+File: LSA-class-distance.eps Graphic file (type eps)
+ <LSA-class-distance.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+[][]\OT1/ptm/m/n/12 Figure 2: [][][][][]  Nat-u-ral-ness rat-ings from Ex-per-i
+-ment 1 grouped by ad-jec-tive se-man-tic class. Higher
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+\OT1/ptm/m/n/12 val-ues in-di-cate that a class's ad-jec-tives are pre-ferred f
+ar-ther from the mod-i-fied noun; lower val-ues
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+\OT1/ptm/m/n/12 in-di-cate that a class's ad-jec-tives are pre-ferred closer. T
+he dashed line in-di-cates chance level, or
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--288
+\OT1/ptm/m/n/12 the ab-sence of sta-ble pref-er-ences. Er-ror bars rep-re-sent 
+boot-strapped 95% con-fi-dence in-ter-vals
+ []
+
+
+Overfull \hbox (7.42282pt too wide) in paragraph at lines 301--302
+[] []|\OT1/ptm/m/sc/12 4.1 Par-tic-i-pants.[] []\OT1/ptm/m/n/12 We re-cruited 4
+5 par-tic-i-pants who did not take part in Ex-per-i-ment 1 through 
+ []
+
+File: exp2-trial.eps Graphic file (type eps)
+<exp2-trial.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+[][]\OT1/ptm/m/n/12 Figure 3: [][][][][]  Sam-ple trial from Ex-per-i-ment 2. P
+ar-tic-i-pants rated the pos-si-bil-ity for two speak-ers to
+ []
+
+[7]
+File: class_faultless.eps Graphic file (type eps)
+ <class_faultless.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+[][]\OT1/ptm/m/n/12 Figure 4: [][][][][]  Fault-less dis-agree-ment scores from
+ Ex-per-i-ment 2 grouped by ad-jec-tive se-man-tic class.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+\OT1/ptm/m/n/12 Higher val-ues in-di-cate that a class's ad-jec-tives are per-c
+eived as more sub-jec-tive. Er-ror bars rep-re-
+ []
+
+File: LSA-naturalness-subjectivity.eps Graphic file (type eps)
+<LSA-naturalness-subjectivity.eps>
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+[][]\OT1/ptm/m/n/12 Figure 5: [][][][][]  Or-der-ing pref-er-ences (ob-tained i
+n Ex-per-i-ment 1) plot-ted against sub-jec-tiv-ity scores
+ []
+
+[8] [9]
+Overfull \hbox (2.75285pt too wide) in paragraph at lines 356--356
+\OT1/ptm/m/n/12 processing story of [] ([]) and the hierarchical-composition st
+ory of [] ([]) 
+ []
+
+[10] (./tagalog-LSA-formatted.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+[][]\OT1/ptm/m/n/12 Barker, Chris. 2013.  Ne-go-ti-at-ing Taste.  \OT1/ptm/m/it
+/12 In-quiry \OT1/ptm/m/n/12 56(2-3). 240--257. 
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 91--96
+[][]\OT1/ptm/m/n/12 Kennedy, Christo-pher. 2013.  Two sources of sub-jec-tiv-it
+y: Qual-i-ta-tive as- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--96
+\OT1/ptm/m/n/12 sess-ment and di-men-sional un-cer-tainty.  \OT1/ptm/m/it/12 In
+-quiry \OT1/ptm/m/n/12 56(2-3). 258--277. 
+ []
+
+[11] [12]
+Underfull \hbox (badness 2065) in paragraph at lines 236--240
+[][]\OT1/ptm/m/n/12 Whorf, Ben-jamin Lee. 1945.  Gram-mat-i-cal Cat-e-gories.  
+\OT1/ptm/m/it/12 Lan-guage \OT1/ptm/m/n/12 21(1). 1--11. 
+ []
+
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 391.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 391.
+ (./tagalog-LSA-formatted.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 391.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 391.
+Package rerunfilecheck Info: File `tagalog-LSA-formatted.out' has not changed.
+(rerunfilecheck)             Checksum: 9F54C5486CA5DA54149073AB1EE77739;914.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 391.
+ ) 
+Here is how much of TeX's memory you used:
+ 6853 strings out of 493015
+ 99156 string characters out of 6133377
+ 302467 words of memory out of 5000000
+ 10305 multiletter control sequences out of 15000+600000
+ 13725 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,20n,35p,1512b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on tagalog-LSA-formatted.dvi (13 pages, 119588 bytes).

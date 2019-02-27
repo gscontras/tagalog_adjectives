@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tagalog-LSA-formatted.aux
+The style file: sp.bst.bst
+Database file #1: greg.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 38 entries,
+            3147 wiz_defined-function locations,
+            855 strings with 9967 characters,
+and the built_in function-call counts, 20840 in all, are:
+= -- 1728
+> -- 659
+< -- 33
++ -- 239
+- -- 193
+* -- 1255
+:= -- 3288
+add.period$ -- 169
+call.type$ -- 38
+change.case$ -- 272
+chr.to.int$ -- 38
+cite$ -- 38
+duplicate$ -- 1726
+empty$ -- 1749
+format.name$ -- 277
+if$ -- 4259
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 351
+newline$ -- 212
+num.names$ -- 160
+pop$ -- 708
+preamble$ -- 1
+purify$ -- 213
+quote$ -- 0
+skip$ -- 600
+stack$ -- 0
+substring$ -- 872
+swap$ -- 772
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 309
+warning$ -- 0
+while$ -- 154
+width$ -- 0
+write$ -- 524

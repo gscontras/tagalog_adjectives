@@ -36,14 +36,14 @@ d_s = bootsSummary(data=t, measurevar="response", groupvars=c("class"))
 #write.csv(d_s,"~/Documents/git/cocolab/adjective_ordering/presentations/DGfS/plots/faultless.csv")
 
 class_plot <- ggplot(d_s, aes(x=reorder(class,-response,mean),y=response)) +
-  geom_bar(stat="identity",position=position_dodge()) +
+  geom_bar(stat="identity",fill="lightgray",color="black")+
   geom_errorbar(aes(ymin=bootsci_low, ymax=bootsci_high, x=reorder(class,-response,mean), width=0.1),position=position_dodge(width=0.9))+
-  ylab("faultless disagreement\n")+
+  ylab("faultless\ndisagreement\n")+
   xlab("\nadjective class") +
   ylim(0,1) +
   theme_bw()
 class_plot
-#ggsave("../results/class_plot.pdf",height=3)
+#ggsave("../results/class_faultless.png",height=2,width=4.3)
 
 agr_pred = aggregate(response~predicate*class,data=t,mean)
 
