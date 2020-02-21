@@ -107,7 +107,7 @@ ggplot(adj_agr, aes(x=subjectivity,y=correctresponse)) +
   #geom_text(aes(label=predicate),size=2.5,vjust=1.5)+
   ylab("preferred distance from noun\n")+
   xlab("\nsubjectivity score")+
-  #ylim(0,1)+
+  ylim(0,1)+
   theme_bw()
 #ggsave("../results/naturalness-subjectivity.pdf",height=3,width=4)
 #ggsave("../results/LSA-naturalness-subjectivity.png",height=3,width=3.5)
